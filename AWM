@@ -1,0 +1,9 @@
+[
+  {
+  "id": "AWM",
+  "copy_from": "gun_base",
+  "looks_like": "pneumatic_bolt_driver",
+  "type": "GUN",
+  "name": "AWM",
+  "description": "A bolt-action sniper rifle designed and manufactured by the British company Accuracy International. This rifle has seen popularity from everyone, from civilians to military.",
+  
