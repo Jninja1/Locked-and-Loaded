@@ -1,8 +1,32 @@
 [
  {
+  "id": "SVD",
+  "copy_from": "gun_base",
+  "looks_like": "pneumatic_bolt_driver",
+  "type": "GUN",
+  "reload_noise_volume": 10,
   "name": "SVD",
-  "id": "GUN",
-  "description": "A Soviet Russia sniper rifle chamber in 7.62. With exceptional range, this gun is deadly in the right hands.",
-  "weight": " ",
-  "volume": " ",
-  "material": [ ],
+  "name_plural": "SVD",
+  "description": "A Soviet Russia sniper rifle chamber in 7.62x54mmR. With exceptional range, this gun is deadly in the right hands.",
+  "weight": "4300 g",
+  "volume": 10,
+  "price": 500000,
+  "to_hit": -2,
+  "bashing": 8,
+  "material": ["steel", "plastic", "wood" ],
+  "ammo": "7.62",
+  "skill": "rifle",
+  "range": 70,
+  "dispersion": 30,
+  "durability": 10,
+  "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "grip", 1 ],
+      [ "mechanism", 3 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "magazines": [7.62x54mmR]
+     }
+ ]
