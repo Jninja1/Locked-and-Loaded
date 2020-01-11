@@ -27,6 +27,6 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "magazines": [7.62x54mmR]
+    "magazines": [7.62x54mmR_clip]
      }
  ]
