@@ -1,0 +1,11 @@
+[
+  {
+  "type", "MOD_INFO",
+  "ident", "More_Snipers",
+  "name", "More Snipers",
+  "authors": [ "Jninja1" ],
+  "description": "Adds a couple of new sniper rifles.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
