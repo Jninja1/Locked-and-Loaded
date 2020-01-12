@@ -6,7 +6,7 @@
   "type": "GUN",
   "name": "AWM",
   "description": "A bolt-action sniper rifle designed and manufactured by the British company Accuracy International. This rifle has seen popularity from everyone, from civilians to military.",
-  "weight", "6486,4 g",
+  "weight": "6486,4 g",
   "volume": " 12,
   "price": 800000,
   "bashing": 8,
