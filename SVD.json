@@ -14,6 +14,8 @@
   "to_hit": -2,
   "bashing": 8,
   "material": ["steel", "plastic", "wood" ],
+  "symbol": "-",
+  "color": "brown",
   "ammo": "7.62x54mmR",
   "skill": "rifle",
   "range": 70,
