@@ -14,7 +14,7 @@
   "to_hit": -2,
   "bashing": 8,
   "material": ["steel", "plastic", "wood" ],
-  "ammo": "7.62",
+  "ammo": "7.62x54mmR",
   "skill": "rifle",
   "range": 70,
   "dispersion": 30,
