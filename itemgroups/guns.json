@@ -3,7 +3,7 @@
   "type": "item_group",
   "id": "guns_rifle_milspec",
   "items": [
-  { "item": "AWM", "prob": "charges-min": 0, "charges-max": 5, },
-  { "item": "SVD", "prob": "charges-min": 0, "charges-max" 10, },
+  { "item": "AWM", "prob": 20, "charges-min": 0, "charges-max": 5, },
+  { "item": "SVD", "prob": 30, "charges-min": 0, "charges-max" 10, },
   }
 ]
