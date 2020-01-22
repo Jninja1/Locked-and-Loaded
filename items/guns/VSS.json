@@ -1,1 +1,33 @@
-
+[
+  {
+    "id": "VSS",
+    "look-like": "ar15",
+    "type": "GUN",
+    "name": "VSS",
+    "name-plural": "VSS",
+    "description":
+    "weight": "2721 g",
+    "volume":"3L",
+    "price":
+    "to-hit": -2,
+    "bashing", 8,
+    "material": [ "wood", "steel"],
+    "symbol": "~",
+    "color": "brown",
+    "ammo": 
+    "skil": "rifle",
+    "ranged_damage": 1,
+    "dispersion": 550,
+    "durability": 6,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
