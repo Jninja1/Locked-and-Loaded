@@ -1,0 +1,18 @@
+[
+  {
+  "id": "VSS_mag",
+  "name": "VSS Magazine",
+  "description": "A small box mag made for a VSS it can hold ten rounds of 9x39mm.",
+   "weight": "168 g",
+   "volume": "250 ml",
+   "price": 8000,
+   "material": "steel",
+    "symbol": "+",
+    "color": "gray",
+    "looks_like": "8x40_50_mag",
+    "ammo_type": "5x39mm",
+    "capacity": 10,
+    "reliability": 10,
+    "flags": [ "MAG_COMPACT" ]
+  }
+]
