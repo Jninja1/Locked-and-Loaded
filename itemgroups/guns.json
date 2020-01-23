@@ -6,5 +6,12 @@
   { "item": "AWM", "prob": 20, "charges-min": 0, "charges-max": 5 },
   { "item": "SVD", "prob": 30, "charges-min": 0, "charges-max": 10 }
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_rifle_rare",
+    "items": [
+    {"item": "VSS", "prob": 40, "charges-min": 0, "charges-max": 10}
+    ]
   }
 ]
