@@ -1,0 +1,17 @@
+[
+  {
+  "type": "item_groups",
+  "id": "mags_surplus",
+  "items": [
+  [ "AWM_mag", "prob", 10],
+  [ "SVD_mag", "prob", 10]
+  ]
+ },
+ {
+ "type": "item_groups",
+ "id": "mags_rifle_rare",
+ "items": [
+ [ "VSS_mag", "prob", 30]
+  ]
+ }
+]
