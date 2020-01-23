@@ -12,7 +12,7 @@
   "color": "yellow",
   "count":  9,
   "stack_size": 9,
-  "ammo_type": "5x39mm",
+  "ammo_type": "7.62x54mmR",
   "casing": "5x39mm_casing",
   "range": 40,
   "damage": 40,
