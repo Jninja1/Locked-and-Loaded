@@ -1,0 +1,23 @@
+[
+  {
+  "id": "5x39mm",
+  "type": "AMMO",
+  "description": "a",
+  "weight": "a",
+  "voluem": "a",
+  "price": 9,
+  "price_postapoc": 9,
+  "material": [ "brass", "powder"],
+  "symbol": "=",
+  "color": "yellow",
+  "count":  9,
+  "stack_size": 9,
+  "ammo_type": "5x39mm",
+  "casing": "5x39mm_casing",
+  "range": 40,
+  "damage": 40,
+  "pierce": 6,
+  "dispersion": 60,
+  "recoil": 900
+  }
+]
