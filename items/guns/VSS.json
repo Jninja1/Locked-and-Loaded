@@ -5,23 +5,22 @@
     "type": "GUN",
     "name": "VSS",
     "name-plural": "VSS",
-    "description":
+    "description": "The VSS or Vintorez was developed in the late 1980s by the Tula Arsenal. It has a built in suppresor and is chmabered in 9x39mm.",
     "weight": "2721 g",
     "volume":"3L",
-    "price":
+    "price": 300000,
     "to-hit": -2,
-    "bashing", 8,
+    "bashing": 8,
     "material": [ "wood", "steel"],
     "symbol": "~",
     "color": "brown",
-    "ammo": 
+    "ammo": "9x39mm",
     "skil": "rifle",
-    "ranged_damage": 1,
+    "range": 40,
     "dispersion": 550,
     "durability": 6,
     "valid_mod_locations": [
       [ "accessories", 2 ],
-      [ "barrel", 1 ],
       [ "bore", 1 ],
       [ "brass catcher", 1 ],
       [ "grip", 1 ],
@@ -31,3 +30,7 @@
       [ "sights", 1 ],
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
+      ],
+    "magazines": [["5x39mm", [ "VSS_mag"]]]
+  }
+]
