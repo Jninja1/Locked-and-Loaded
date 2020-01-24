@@ -10,7 +10,7 @@
     "symbol": "+",
     "color": "gray",
     "looks_like": "8x40_50_mag",
-    "ammo_type": "5x39mm",
+    "ammo_type": "9x39mm",
     "capacity": 10,
     "reliability": 10,
     "flags": [ "MAG_COMPACT" ]
