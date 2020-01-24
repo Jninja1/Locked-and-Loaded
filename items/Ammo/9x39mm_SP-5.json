@@ -1,0 +1,24 @@
+[
+  {
+  "id": "9x39mm_SP-5",
+  "type": "AMMO",
+  "description": "A Soviet made ammo type that is known for being able to go subsonic. This bullet has an FMJ core and was made for accuracy",
+  "weight": "17 g",
+  "voluem": "260 ml",
+  "price": 200,
+  "price_postapoc": 5700,
+  "material": [ "brass", "powder"],
+  "symbol": "=",
+  "color": "yellow",
+  "count":  20,
+  "stack_size": 10,
+  "ammo_type": "762",
+  "casing": "7,62x39mm_casing",
+  "range": 45,
+  "damage": 40,
+  "pierce": 2,
+  "dispersion": 40,
+  "recoil": 2000
+  }
+]
+
