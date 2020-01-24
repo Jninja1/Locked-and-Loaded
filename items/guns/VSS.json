@@ -19,18 +19,18 @@
     "range": 40,
     "dispersion": 550,
     "durability": 6,
+    "built_in_mods": [ "suppressor"],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "bore", 1 ],
       [ "brass catcher", 1 ],
       [ "grip", 1 ],
       [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
       ],
-    "magazines": [["5x39mm", [ "VSS_mag"]]]
+    "magazines": [["9x39mm", [ "VSS_mag"]]]
   }
 ]
