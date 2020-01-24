@@ -20,7 +20,7 @@
   "skill": "rifle",
   "range": 70,
   "dispersion": 30,
-  "durability": 10,
+  "durability": 7,
   "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "grip", 1 ],
