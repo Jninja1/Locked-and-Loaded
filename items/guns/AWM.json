@@ -27,6 +27,6 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "magazines": [".300_Winchester_Magnum", ["AWM_mag"]]
+    "magazines": [ [".300_Winchester_Magnum", ["AWM_mag"] ]
      }
  ]
