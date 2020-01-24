@@ -3,15 +3,15 @@
   "type": "item_group",
   "id": "mags_surplus",
   "items": [
-  [ "AWM_mag", "prob", 10],
-  [ "SVD_mag", "prob", 10]
+  [ "AWM_mag",  10],
+  [ "SVD_mag",  10]
   ]
  },
  {
  "type": "item_group",
  "id": "mags_rifle_rare",
  "items": [
- [ "VSS_mag", "prob", 30]
+ [ "VSS_mag", 30]
   ]
  }
 ]
