@@ -1,0 +1,10 @@
+[
+  {
+    "type": "item_group",
+    "id": "ammo_rifle_rare",
+    "items": [
+     [ "5x39mm_SP-5", 40 ],
+     [ "5x39mm_SP-6", 30 ]
+    ]
+   }
+  ]
