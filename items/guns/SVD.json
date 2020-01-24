@@ -16,7 +16,7 @@
   "material": ["steel", "plastic", "wood" ],
   "symbol": "-",
   "color": "brown",
-  "ammo": "7.62x54mmR",
+  "ammo": "7.62",
   "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -29,6 +29,6 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-   "magazines": [["7.62x54mmR", ["SVD_mag"]]]
+   "magazines": [["7.62", ["SVD_mag"]]]
      }
  ]
