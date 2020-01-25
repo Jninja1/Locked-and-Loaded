@@ -6,12 +6,5 @@
   [ "AWM_mag",  10],
   [ "SVD_mag",  10]
   ]
- },
- {
- "type": "item_group",
- "id": "mags_rifle_rare",
- "items": [
- [ "VSS_mag", 30]
-  ]
- }
-]
+  }
+ ]
