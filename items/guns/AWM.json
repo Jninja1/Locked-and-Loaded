@@ -13,7 +13,6 @@
   "to_hit": -2,
   "materials": ["steel", "plastic"],
  "symbol": "|",
- "color": "grey",
   "ammo": ".300_Winchester_Magnum",
  "skill": "rifle",
   "range": 70,
