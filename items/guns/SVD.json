@@ -15,7 +15,6 @@
   "bashing": 8,
   "material": ["steel", "plastic", "wood" ],
   "symbol": "-",
-  "color": "brown",
   "ammo": "7.62",
   "skill": "rifle",
   "range": 70,
