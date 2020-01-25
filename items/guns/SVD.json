@@ -15,7 +15,7 @@
   "bashing": 8,
   "material": ["steel", "plastic", "wood" ],
   "symbol": "-",
-  "ammo": "7.62",
+  "ammo": "762",
   "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -28,6 +28,6 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-   "magazines": [["7.62", ["SVD_mag"]]]
+   "magazines": [["762", ["SVD_mag"]]]
      }
  ]
