@@ -1,32 +1,36 @@
 [
   {
   "id": "CTI",
-  "copy_from": "gun_base",
-  "looks_like": "pneumatic_bolt_driver",
-  "type": "GUN",
-  "name": "m200",
-  "description": "The CheyTac Intervention is an American bolt-action sniper rifle manufactured by CheyTac LLC, which can also be classified as an anti-materiel rifle. With a magazine capacity of seven bullets nothing will be left of an target.",
+  "looks_like": "Browning_BLR",
+  "name": "CheyTac Intervention",
+  "description": "The CheyTac Intervention is an American bolt-action sniper rifle manufactured by CheyTac LLC, which can also be classified as an anti-materiel rifle. With a seven round magazine any target will be no more.",
   "weight": "14061 g",
-  "volume": 3,
+  "volume": 5,
   "price": 1200000,
-  "bashing": 9,
   "to_hit": -4,
-  "materials": ["steel", "plastic"],
- "symbol": "/",
+  "bashing": 8,
+  "material": [ "steel", "plastic" ],
+  "symbol": "`",
+  "color": "red",
   "ammo": "50",
- "skill": "rifle",
-  "range": 80,
-  "dispersion": 50,
-  "durability": 4,
-  "valid_mod_locations": [
-      [ "accessories", 2 ],
+  "skill": "rifle",
+  "dispersion": 130,
+  "durability": 6,
+  "built_in_mods": [ "rifle_scope", "bipod", "adjustable_stock", "cheek_pad" ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
       [ "grip", 1 ],
-      [ "mechanism", 3 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
       [ "sights", 1 ],
       [ "sling", 1 ],
+      [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "magazines": [ ["50", ["CTI_mag"] ]
-     ]
-  }
- ]
+    "magazines": [ [ "50", [ "CT_mag" ] ] ]
+    }
+   ]
