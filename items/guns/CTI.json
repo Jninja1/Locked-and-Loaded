@@ -1,0 +1,32 @@
+[
+  {
+  "id": "CTI",
+  "copy_from": "gun_base",
+  "looks_like": "pneumatic_bolt_driver",
+  "type": "GUN",
+  "name": "m200",
+  "description": "The CheyTac Intervention is an American bolt-action sniper rifle manufactured by CheyTac LLC, which can also be classified as an anti-materiel rifle. With a magazine capacity of seven bullets nothing will be left of an target.",
+  "weight": "14061 g",
+  "volume": 3,
+  "price": 1200000,
+  "bashing": 9,
+  "to_hit": -4,
+  "materials": ["steel", "plastic"],
+ "symbol": "/",
+  "ammo": "50",
+ "skill": "rifle",
+  "range": 80,
+  "dispersion": 50,
+  "durability": 4,
+  "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "grip", 1 ],
+      [ "mechanism", 3 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "magazines": [ ["50", ["CTI_mag"] ]
+     ]
+  }
+ ]
