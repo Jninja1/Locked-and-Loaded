@@ -1,19 +1,24 @@
 [
   {
-    "result": "flintlock_ammo",
-    "type": "recipe",
-    "category": "CC_AMMO",
-    "subcategory": "CSC_AMMO_RIFLE",
-    "skill_used": "fabrication",
-    "difficulty": 3,
-    "skills_required": [ "gun", 1 ],
-    "time": "1 m",
-    "batch_time_factors": [ 60, 5 ],
-    "autolearn": true,
-    "charges": 1,
-    "reversible": true,
-    "using": [ [ "ammo_bullet", 10 ] ],
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "chem_black_powder", 5 ] ], [ [ "paper", 1 ] ] ]
-    }
-  ]
+    "id": "flintlock_ammo",
+    "type": "AMMO",
+    "name": "paper cartridge",
+    "description": "A paper cartridge containing black powder and a metallic projectile.  Historically used to reload muzzleloaders in a more reasonable time.",
+    "weight": "40 g",
+    "volume": "250 ml",
+    "price": 1100,
+    "price_postapoc": 1100,
+    "material": [ "lead", "powder" ],
+    "symbol": "=",
+    "color": "white",
+    "count": 30,
+    "stack_size": 10,
+    "ammo_type": "flintlock",
+    "range": 6,
+    "damage": 50,
+    "dispersion": 90,
+    "recoil": 1500,
+    "loudness": 70,
+    "effects": [ "COOKOFF", "MUZZLE_SMOKE", "BLACKPOWDER" ]
+  }
+]
