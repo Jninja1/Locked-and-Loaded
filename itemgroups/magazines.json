@@ -1,10 +1,11 @@
 [
   {
   "type": "item_group",
-  "id": "mags_surplus",
+  "id": "mags_milspec",
   "items": [
   [ "AWM_mag",  10],
-  [ "SVD_mag",  10]
+  [ "SVD_mag",  10],
+  [ "CTI_mag",  10]
   ]
   }
  ]
