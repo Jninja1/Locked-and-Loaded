@@ -12,7 +12,7 @@
     "color": "white",
     "count": 30,
     "stack_size": 10,
-    "ammo_type": "9x39",
+    "ammo_type": "939",
     "casing": "762_casing",
     "range": 14,
     "damage": 31,
