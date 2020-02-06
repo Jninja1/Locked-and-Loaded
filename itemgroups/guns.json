@@ -8,5 +8,11 @@
   { "item": "CTI", "prop": 10, "charges-min": 0, "charges-max": 7 },
   { "item": "VSS", "prop": 60, "charges-min": 0, "charges-max": 10 } 
    ]
+  },
+  { "type": "item_group",
+    "id": "guns_rifle_rare",
+  "items": [
+  { "item": "M40", "prob": 20, "charges-min": 0, "charges-max": 5}
+    ]
   }
-  ]
+]
