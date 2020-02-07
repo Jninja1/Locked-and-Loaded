@@ -1,6 +1,7 @@
 [
   {
   "id": "CTI",
+  "copy-from": "gun_base",
   "looks_like": "Browning_BLR",
   "type": "GUN",
   "name": "CheyTac Intervention",
@@ -11,9 +12,9 @@
   "to_hit": -4,
   "bashing": 8,
   "material": [ "steel", "plastic" ],
+  "ammo": "50",
   "symbol": "`",
   "color": "red",
-  "ammo": "50",
   "skill": "rifle",
   "dispersion": 130,
   "durability": 6,
