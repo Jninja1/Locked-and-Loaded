@@ -33,6 +33,6 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-     "magazines": [ [ "50", [ "CT_mag" ] ] ]
+     "magazines": [ [ "50", [ "CTI_mag" ] ] ]
     }
    ]
