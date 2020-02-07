@@ -2,6 +2,7 @@
   {
   "id": "CTI",
   "looks_like": "Browning_BLR",
+  "type": "GUN",
   "name": "CheyTac Intervention",
   "description": "The CheyTac Intervention is an American bolt-action sniper rifle manufactured by CheyTac LLC, which can also be classified as an anti-materiel rifle. With a seven round magazine any target will be no more.",
   "weight": "14061 g",
