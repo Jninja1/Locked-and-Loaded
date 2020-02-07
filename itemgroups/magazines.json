@@ -5,7 +5,8 @@
   "items": [
   [ "AWM_mag",  10],
   [ "SVD_mag",  10],
-  [ "CTI_mag",  10]
+  [ "CTI_mag",  10],
+  [ "M82_mag", 5]  
   ]
   }
  ]
