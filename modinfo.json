@@ -4,7 +4,7 @@
   "ident": "More_Snipers",
   "name": "More Snipers",
   "authors": [ "Jninja1" ],
-  "description": "Adds a couple of new sniper rifles.",
+  "description": "Adds a handfull of new Sniper Rifles.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
