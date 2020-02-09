@@ -1,0 +1,10 @@
+[
+  {
+"type" : "item_group",
+    "id" : "ammo_rifle_milspec",
+    "items": [
+	["SP5", 20],
+	["Sp6", 20]
+    ]
+   }
+  ]
