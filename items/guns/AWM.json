@@ -1,7 +1,7 @@
 [
   {
   "id": "AWM",
-  "copy_from": "gun_base",
+  "copy_from": "rifle_manual",
   "looks_like": "pneumatic_bolt_driver",
   "type": "GUN",
   "name": "AWM",
