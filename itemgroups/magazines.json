@@ -8,5 +8,12 @@
   [ "CTI_mag",  10],
   [ "M82_mag", 5]  
   ]
+  },
+  {
+    "type": "item_group",
+    "id": "mags_rare",
+    "items": [
+      [ "VSS_mag", 20 ]
+      ]
   }
  ]
