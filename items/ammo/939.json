@@ -13,7 +13,7 @@
     "count": 30,
     "stack_size": 10,
     "ammo_type": "939",
-    "casing": "762_casing",
+    "casing": "939_casing",
     "range": 14,
     "damage": 31,
     "pierce": 5,
@@ -27,6 +27,16 @@
     "name": "9x39 SP-6",
     "description": "A soviet desogned shell using the 7.62 case with a slightly longer neck. It was Developed by Yuri Frolov it has a hardened metal armor-piercing core. It can penetrate 2 mm (0.079 in) of steel at 500 meters.",
     "price": 20000,
-    "relative": { "damage": 40, "pierce": 8 }
+    "relative": { "damage": 40, "pierce": 10 }
+    },
+    {
+       "type": "GENERIC",
+    "id": "939_casing",
+    "copy-from": "casing",
+    "name": "9x39mm casing",
+    "description": "An empty casing from a 9x39mm round.",
+    "material": "steel",
+    "volume": "10ml",
+    "weight": 5
     }
    ]
