@@ -1,6 +1,6 @@
 [
   {
-    "id": "SP5",
+    "id": "939",
     "type": "AMMO",
     "name": "9x39mm SP-5",
     "description": "A Soviet designed shell using the 7.62 case with a sligtly longer neck. Developed by Nikolai Zabelin it is a conventional lead core FMJ bullet and was developed for accuracy.",
@@ -21,7 +21,7 @@
     "recoil": 750
     },
     {
-    "id": "SP6",
+    "id": "939-6",
     "copy-from": "SP5",
     "type": "AMMO",
     "name": "9x39 SP-6",
