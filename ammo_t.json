@@ -1,14 +1,8 @@
 [
 	{
         "type" : "ammunition_type",
-        "id" : "SP5",
-        "name" : "9x39 SP-5",
-        "default" : "SP5"
-    },
-	{
-        "type" : "ammunition_type",
-        "id" : "SP6",
-        "name" : "9x39 SP-6",
-        "default" : "SP6"
-    }
-   ]
+        "id" : "939",
+        "name" : "939 ",
+        "default" : "939"
+	}
+]
