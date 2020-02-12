@@ -22,6 +22,7 @@
     },
     {
     "id": "SP6",
+    "copy-from": "SP5",
     "type": "AMMO",
     "name": "9x39 SP-6",
     "description": "A soviet desogned shell using the 7.62 case with a slightly longer neck. It was Developed by Yuri Frolov it has a hardened metal armor-piercing core. It can penetrate 2 mm (0.079 in) of steel at 500 meters.",
