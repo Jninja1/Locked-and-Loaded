@@ -1,10 +1,10 @@
 [
   {
 "type" : "item_group",
-    "id" : "ammo_rifle_milspec",
+    "id" : "ammo_rifle_rare",
     "items": [ 
 	    ["SP5", 20], 
-	    ["Sp6", 20] 
+	    ["SP6", 20] 
 ]
 }, 
 {
