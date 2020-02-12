@@ -11,7 +11,7 @@
 	"type": "item_group",
     "id": "ammo_casings",
     "items": [ 
-	    [ "item", "939_casing", 70 ] ]  
+	    ["939_casing", 70 ] ]  
 },
 {
 	 "type": "item_group",
