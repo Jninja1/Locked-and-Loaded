@@ -3,22 +3,22 @@
 "type" : "item_group",
     "id" : "ammo_rifle_milspec",
     "items": [ 
-	    {"SP5": 20}, 
-	    {"Sp6": 20} 
+	    ["SP5", 20], 
+	    ["Sp6", 20] 
 ]
 }, 
 {
 	"type": "item_group",
     "id": "ammo_casings",
     "items": [ 
-	    { "item": "939_casing", "prob": 50, "count": 20 } ]  
+	    [ "item", "939_casing", 70 ] ]  
 },
 {
 	 "type": "item_group",
     "id": "ammo_rifle_reloaded",
     "items": [ 
-	    { "reloaded_SP5": 10 }, 
-	    { "reloaded_SP6": 10 } 
+	    [ "reloaded_SP5", 10 ], 
+	    [ "reloaded_SP6", 10 ] 
     ] 
     }
    ]
