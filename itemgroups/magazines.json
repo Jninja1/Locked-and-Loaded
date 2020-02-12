@@ -3,17 +3,17 @@
   "type": "item_group",
   "id": "mags_milspec",
   "items": [
-    { "AWM_mag":  10},
-    {"SVD_mag":  10},
-    { "CTI_mag":  10},
-    { "M82_mag": 5}  
+    [ "AWM_mag",  10],
+    [ "SVD_mag",  10],
+    [ "CTI_mag",  10],
+    [ "M82_mag", 5 ] 
   ]
   },
   {
     "type": "item_group",
     "id": "mags_rare",
     "items": [
-      { "VSS_mag": 20 }
+      [ "VSS_mag", 20 ]
       ]
   }
  ]
