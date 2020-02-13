@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-    "result": "reloaded_SP5",
+    "result": "reloaded_939",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
     "skill_used": "fabrication",
@@ -22,7 +22,7 @@
    },
    {
     "type": "recipe",
-    "result": "reloaded_SP6",
+    "result": "reloaded_9396",
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_RIFLE",
     "skill_used": "fabrication",
