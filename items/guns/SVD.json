@@ -5,7 +5,6 @@
   "reload_noise_volume": 10,
   "looks_like": "pneumatic_bolt_driver",
   "type": "GUN",
-  "reload_noise_volume": 10,
   "name": "SVD",
   "name_plural": "SVD",
   "description": "A Soviet Russia sniper rifle chamber in 7.62x54mmR. With exceptional range, this gun is deadly in the right hands.",
