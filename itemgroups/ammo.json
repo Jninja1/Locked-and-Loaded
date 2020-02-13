@@ -3,8 +3,8 @@
 "type" : "item_group",
     "id" : "ammo_rifle_rare",
     "items": [ 
-	    ["SP5", 20], 
-	    ["SP6", 20] 
+	    ["939", 20], 
+	    ["9396", 20] 
 ]
 }, 
 {
@@ -17,8 +17,8 @@
 	 "type": "item_group",
     "id": "ammo_rifle_reloaded",
     "items": [ 
-	    [ "reloaded_SP5", 10 ], 
-	    [ "reloaded_SP6", 10 ] 
+	    [ "reloaded_939", 10 ], 
+	    [ "reloaded_9396", 10 ] 
     ] 
     }
    ]
