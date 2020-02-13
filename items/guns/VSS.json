@@ -2,6 +2,7 @@
  {
   "id": "VSS",
   "copy_from": "gun_base",
+  "reload_noise_volume": 10,
   "looks_like": "SKS",
   "type": "GUN",
   "reload_noise_volume": 10,
@@ -20,6 +21,7 @@
   "range": 50,
   "dispersion": 30,
   "durability": 7,
+  "barrel_length": "200 mm",
   "built_in_mods": [ "suppressor" ],
   "valid_mod_locations": [
      [ "accessories", 4 ],
