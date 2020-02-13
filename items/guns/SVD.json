@@ -2,6 +2,7 @@
  {
   "id": "SVD",
   "copy_from": "gun_base",
+  "reload_noise_volume": 10,
   "looks_like": "pneumatic_bolt_driver",
   "type": "GUN",
   "reload_noise_volume": 10,
@@ -20,6 +21,7 @@
   "range": 70,
   "dispersion": 30,
   "durability": 7,
+  "barrel_length": "620 mm",
   "built_in_mods": [ "rifle_scope", "cheek_pad", "shoulder_strap", "bipod" ],
   "valid_mod_locations": [
       [ "accessories", 2 ],
