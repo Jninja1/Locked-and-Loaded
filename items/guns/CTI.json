@@ -2,6 +2,7 @@
   {
   "id": "CTI",
   "copy-from": "gun_base",
+  "reload_noise_volume": 10,
   "looks_like": "Browning_BLR",
   "type": "GUN",
   "name": "CheyTac Intervention",
@@ -18,6 +19,7 @@
   "skill": "rifle",
   "dispersion": 130,
   "durability": 6,
+  "barrel_length": " 740 mm",
   "built_in_mods": [ "rifle_scope", "bipod", "adjustable_stock", "cheek_pad" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
