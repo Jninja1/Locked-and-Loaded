@@ -2,6 +2,7 @@
   {
     "id": "M40",
     "copy-from": "rifle_manual",
+    "reload_noise_volume": 10,
     "looks_like": "ar15",
     "type": "GUN",
     "name": "M40",
@@ -17,7 +18,7 @@
     "dispersion": 80,
     "durability": 8,
     "clip_size": 5,
-    "barrel_length": 3,
+    "barrel_length": "610 mm",
     "valid_mod_locations": [
     [ "sights", 1],
     [ "sling", 1]
