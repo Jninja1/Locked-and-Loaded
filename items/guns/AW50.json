@@ -1,4 +1,6 @@
-   "id": "AW50",
+[
+   {
+"id": "AW50",
     "copy-from": "rifle_manual",
     "looks_like": "SKS",
     "type": "GUN",
@@ -32,4 +34,6 @@
       [ "underbarrel mount", 1 ]
     ],
     "magazines": [ [ "50", [ "AW50_mag" ] ] ],
+      }
+   ]
   
