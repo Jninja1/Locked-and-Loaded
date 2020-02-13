@@ -21,7 +21,7 @@
   "range": 50,
   "dispersion": 30,
   "durability": 7,
-  "barrel_length": "200 mm",
+  "barrel_length": "200 ml",
   "built_in_mods": [ "suppressor" ],
   "valid_mod_locations": [
      [ "accessories", 4 ],
