@@ -33,7 +33,7 @@
       [ "stock mount", 1 ],
       [ "underbarrel mount", 1 ]
     ],
-    "magazines": [ [ "50", [ "AW50_mag" ] ] ],
+    "magazines": [ [ "50", [ "AW50_mag" ] ] ]
       }
    ]
   
