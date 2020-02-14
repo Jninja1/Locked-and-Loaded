@@ -15,5 +15,12 @@
     "items": [
       [ "VSS_mag", 20 ]
       ]
+  },
+  {
+    "type": "item_group",
+    "id": "mags_common",
+    "items": [
+      [ "RPR_mag", 30]
+      ]
   }
  ]
