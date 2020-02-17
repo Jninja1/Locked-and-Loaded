@@ -26,5 +26,13 @@
 	    [ "reloaded_939", 10 ], 
 	    [ "reloaded_9396", 10 ] 
     ] 
+    },
+    {
+	    "type": "item_group",
+	    "id": "ammo_rifle_obscure",
+	    "items": [
+		    ["145114", 5]
+		    ]
     }
+	
    ]
