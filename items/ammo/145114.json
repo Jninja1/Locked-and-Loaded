@@ -19,5 +19,16 @@
     "pierce": 50,
     "dispersion": 150,
     "recoil": 4000
+    },
+    {
+       "type": "GENERIC",
+    "id": "145114_casing",
+    "copy-from": "casing",
+    "name": ".14.5x114mm casing",
+    "description": "An empty casing from a 14.5x114mm round.",
+    "material": "brass",
+    "volume": "100ml",
+    "weight": 6
     }
-    ]
+   ]
+   
