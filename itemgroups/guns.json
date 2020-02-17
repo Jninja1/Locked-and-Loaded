@@ -10,7 +10,7 @@
   { "item": "AW50", "pro": 6, "charges-min": 0, "charges-max": 5 }
    ]
   },
-  { "type": "item_group",
+    {"type": "item_group",
     "id": "guns_rifle_rare",
   "items": [
   { "item": "M40", "prob": 20, "charges-min": 0, "charges-max": 5},
@@ -23,5 +23,13 @@
     "items": [
       { "item": "RPR", "prob": 40, "charges-min": 0, "charges-max": 10 }
       ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_rifle_obscure",
+    "items": [ 
+      { "item": "shaher", "prob": 10, "charges-min": 0, "charges-max": 1 }
+      ]
   }
+  
 ]
