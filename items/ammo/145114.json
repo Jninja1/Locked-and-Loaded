@@ -15,7 +15,7 @@
     "ammo_type": "145114",
     "casing": "145114_casing",
     "range": 100,
-    "damage": 150,
+    "damage": 2000,
     "pierce": 50,
     "dispersion": 150,
     "recoil": 4000
