@@ -13,7 +13,7 @@
   "to_hit": -4,
   "bashing": 8,
   "material": [ "steel", "plastic" ],
-  "ammo": "50",
+  "ammo": "408",
   "symbol": "`",
   "color": "red",
   "skill": "rifle",
@@ -35,6 +35,6 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-     "magazines": [ [ "50", [ "CTI_mag" ] ] ]
+     "magazines": [ [ "408", [ "CTI_mag" ] ] ]
     }
    ]
