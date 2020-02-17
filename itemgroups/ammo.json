@@ -1,6 +1,11 @@
 [
   {
-"type" : "item_group",
+   "type": "item_group",
+   "id": "ammo_rifle_milspec",
+   "items": [ [ "408", 20] ]
+  },
+  {	  
+    "type" : "item_group",
     "id" : "ammo_rifle_rare",
     "items": [ 
 	    ["939", 20], 
@@ -11,7 +16,8 @@
 	"type": "item_group",
     "id": "ammo_casings",
     "items": [ 
-	    ["939_casing", 70 ] ]  
+	    ["939_casing", 70 ], 
+           [ "408_casing", 30] ]  
 },
 {
 	 "type": "item_group",
