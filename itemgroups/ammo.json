@@ -2,7 +2,7 @@
   {
    "type": "item_group",
    "id": "ammo_rifle_milspec",
-   "items": [ [ "408", 20] ]
+   "items": [ [ "408", 40] ]
   },
   {	  
     "type" : "item_group",
