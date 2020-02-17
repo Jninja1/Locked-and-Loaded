@@ -40,5 +40,26 @@
       [ [ "lead", 8 ] ],
       [ [ "copper", 2 ] ]
     ]
-   }
+   },
+  {
+     "result": "reloaded_408_CT",
+    "type": "recipe",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_RIFLE",
+    "skill_used": "fabrication",
+    "difficulty": 7,
+    "skills_required": [ "gun", 7 ],
+    "time": "2 m",
+    "batch_time_factors": [ 60, 5 ],
+    "book_learn": [ [ "recipe_bullets", 6 ] ],
+    "charges": 1,
+    "reversible": true,
+    "using": [ [ "bullet_forming", 18 ], [ "ammo_bullet", 12 ] ],
+    "components": [
+      [ [ "408_casing", 1 ] ],
+      [ [ "lgrifle_primer", 1 ] ],
+      [ [ "gunpowder", 25 ], [ "gunpowder_large_rifle", 30 ] ],
+      [ [ "copper", 5 ] ]
+  ]
+  }
   ]
