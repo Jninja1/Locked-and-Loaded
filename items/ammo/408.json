@@ -14,11 +14,11 @@
     "stack_size": 10,
     "ammo_type": "408",
     "casing": "408_casing",
-    "range": 111,
-    "damage": 130,
-    "pierce": 29,
-    "dispersion": 140,
-    "recoil": 26200
+    "range": 100,
+    "damage": 120,
+    "pierce": 25,
+    "dispersion": 120,
+    "recoil": 25000
     },
     {
    "type": "GENERIC",
