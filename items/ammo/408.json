@@ -1,0 +1,23 @@
+[
+  {
+    "id": "408",
+    "type": "AMMO",
+    "name": ".408 Cheyene Tactical",
+    "description": "The .408 Cheyene Tactical is a specialized rimless, bottlenecked, centerfire cartridge for military long-range sniper rifles that was developed by Dr. John D. Taylor and machinist William O. Wordman. It is offered as a competitor to the most common military NATO long-range service cartridges such as .338 Lapua Magnum and the .50 BMG.",
+    "weight": "27 g",
+    "volume": "175 ml",
+    "price": 3000,
+    "material": [ "brass", "powder" ],
+    "symbol": "-",
+    "color": "white",
+    "count": 20,
+    "stack_size": 10,
+    "ammo_type": "408",
+    "casing": "408_casing",
+    "range": 111,
+    "damage": 130,
+    "pierce": 29,
+    "dispersion": 140,
+    "recoil": 26200
+    }
+  ]
