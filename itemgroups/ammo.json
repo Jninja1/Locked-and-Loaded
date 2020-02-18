@@ -24,7 +24,8 @@
     "id": "ammo_rifle_reloaded",
     "items": [ 
 	    [ "reloaded_939", 10 ], 
-	    [ "reloaded_9396", 10 ] 
+	    [ "reloaded_9396", 10 ],
+	    [ "reloaded_408", 8 ]
     ] 
     },
     {
