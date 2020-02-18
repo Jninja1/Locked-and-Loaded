@@ -25,6 +25,8 @@
   "valid_mod_locations": [
     [ "accessories", 4 ],
       [ "brass catcher", 1 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
       [ "grip", 1 ],
       [ "mechanism", 4 ],
       [ "rail", 3 ],
