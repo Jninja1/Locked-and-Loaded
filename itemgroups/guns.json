@@ -7,7 +7,8 @@
   { "item": "SVD", "prob": 30, "charges-min": 0, "charges-max": 10 },
   { "item": "CTI", "prop": 10, "charges-min": 0, "charges-max": 7 },
   { "item": "M82", "prop": 8, "charges-min": 0, "charges-max": 10 },
-  { "item": "AW50", "pro": 6, "charges-min": 0, "charges-max": 5 }
+  { "item": "AW50", "prob": 6, "charges-min": 0, "charges-max": 5 },
+  { "item": "VSSM", "prob": 30, "charges-min": 0, "charges-max": 10 }
    ]
   },
     {"type": "item_group",
