@@ -29,7 +29,9 @@
     "type": "item_group",
     "id": "guns_rifle_obscure",
     "items": [ 
-      { "item": "shaher", "prob": 10, "charges-min": 0, "charges-max": 1 }
+      { "item": "shaher", "prob": 10, "charges-min": 0, "charges-max": 1 },
+      { "item": "lobaev1", "prob": 40, "charges-min": 0, "charges-max": 1 },
+      { "item": "lobaevmag", "porb": 30, "charges-min": 0, "charges-max ": 5}
       ]
   }
   
