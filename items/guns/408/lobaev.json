@@ -5,7 +5,7 @@
   "reload_noise_volume": 10,
   "looks_like": "garand",
   "type": "GUN",
-  "name": "Lobaev SVL",
+  "name": "Lobaev SVL one shot",
   "description": "The Lobaev sniper rifle is a rifle line of custom-built bolt-action sniper rifles manufactured by Lobaev Arms, which produces benchrest equipment and long-range, sniper and mountain hunting rifles in Tarusa, Russia. With an accuracy of 0.3-0.2 MOA, the Lobaev SVL is claimed as the most accurate sniper rifle in the world. This one is a one shot model.",
   "weight": "4536 g",
   "volume": 4,
@@ -17,24 +17,56 @@
   "symbol": "~",
   "color": "red",
   "skill": "rifle",
-  "dispersion": 130,
+  "dispersion": 10,
   "durability": 6,
-  "barrel_length": " 740 ml",
-  "built_in_mods": [ "rifle_scope", "bipod", "adjustable_stock", "cheek_pad" ],
-    "valid_mod_locations": [
-      [ "accessories", 4 ],
-      [ "barrel", 1 ],
-      [ "bore", 1 ],
-      [ "brass catcher", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "sling", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
+  "barrel_length": " 600 ml",
+    "valid_mod_locaion": [
+  [ "accessories", 2 ],
+  [ "barrel", 1 ],
+  [ "bore", 1 ],
+  [ "sights", 1 ],
+  [ "mechanism", 3 ],
+  [ "muzzle", 1 ],
+  [ "sling", 1 ],
+  [ "stock", 1 ],
+  [ "grip", 1 ]
     ],
-     "magazines": [ [ "408", [ "CTI_mag" ] ] ]
-    }
-   ]
+    "clip_size": 1,
+    "flags": [ "NEVER_JAMS" ]
+  },
+  {
+  "id": "lobaev1",
+  "copy-from": "rifle_manual",
+  "reload_noise_volume": 10,
+  "looks_like": "garand",
+  "type": "GUN",
+  "name": "Lobaev SVL with mag",
+  "description": "The Lobaev sniper rifle is a rifle line of custom-built bolt-action sniper rifles manufactured by Lobaev Arms, which produces benchrest equipment and long-range, sniper and mountain hunting rifles in Tarusa, Russia. With an accuracy of 0.3-0.2 MOA, the Lobaev SVL is claimed as the most accurate sniper rifle in the world. This one has a five round magazine.",
+  "weight": "4536 g",
+  "volume": 4,
+  "price": 900000,
+  "to_hit": -4,
+  "bashing": 8,
+  "material": [ "steel", "plastic" ],
+  "ammo": "408",
+  "symbol": "~",
+  "color": "red",
+  "skill": "rifle",
+  "dispersion": 10,
+  "durability": 6,
+  "barrel_length": " 600 ml",
+    "valid_mod_locaion": [
+  [ "accessories", 2 ],
+  [ "barrel", 1 ],
+  [ "bore", 1 ],
+  [ "sights", 1 ],
+  [ "mechanism", 3 ],
+  [ "muzzle", 1 ],
+  [ "sling", 1 ],
+  [ "stock", 1 ],
+  [ "grip", 1 ]
+    ],
+   "magazines": [ [ "408", [ "SVL_mag" ] ] ]
+  }
+  ]
+
