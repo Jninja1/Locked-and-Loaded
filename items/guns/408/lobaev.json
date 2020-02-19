@@ -35,7 +35,7 @@
     "flags": [ "NEVER_JAMS" ]
   },
   {
-  "id": "lobaev1",
+  "id": "lobaevmag",
   "copy-from": "rifle_manual",
   "reload_noise_volume": 10,
   "looks_like": "garand",
