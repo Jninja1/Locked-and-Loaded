@@ -15,7 +15,7 @@
     "ammo_type": "338",
     "casing": "338_casing",
     "range": 80,
-    "damage": 60,
+    "damage": 80,
     "pierce": 15,
     "dispersion": 150,
     "recoil": 250
