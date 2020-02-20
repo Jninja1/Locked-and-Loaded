@@ -27,6 +27,7 @@
     "type": "item_group",
     "id": "mags_obscure",
     "items": [
-      [ "SVL_mag", 30] ]
+      [ "408SVL_mag", 30],
+      [ "338SVL_mag", 30 ] ]
    }
  ]
