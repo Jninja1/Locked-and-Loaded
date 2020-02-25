@@ -22,5 +22,11 @@
 	"id": "338",
 	"name": "338",
 	"default": "338"
+	},
+	{
+	"type": "ammunition_type",
+	"id": "792",
+	"name": "792",
+	"default": "792"
 	}
 ]
