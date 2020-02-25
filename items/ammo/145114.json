@@ -24,7 +24,7 @@
        "type": "GENERIC",
     "id": "145114_casing",
     "copy-from": "casing",
-    "name": ".14.5x114mm casing",
+    "name": "14.5x114mm casing",
     "description": "An empty casing from a 14.5x114mm round.",
     "material": "brass",
     "volume": "100ml",
