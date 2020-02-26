@@ -28,6 +28,8 @@
     "id": "mags_obscure",
     "items": [
       [ "408SVL_mag", 30],
-      [ "338SVL_mag", 30 ] ]
+      [ "338SVL_mag", 30 ],
+      [ "792_clip",  50 ] 
+    ]
    }
  ]
