@@ -28,7 +28,7 @@
   },
   {
     "type": "AMMO",
-    "id": "reloaded338",
+    "id": "reloaded_338",
     "copy-from": "338",
     "name": "reloaded .338 Lapua Magnum",
     "name_plural": "reloaded .338 Lapua Magnum",
