@@ -19,7 +19,6 @@
     "pierce": 8,
     "dispersion": 35,
     "recoil": 200,
-    "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
      },
     {
        "type": "GENERIC",
