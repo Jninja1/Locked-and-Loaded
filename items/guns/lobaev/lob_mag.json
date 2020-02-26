@@ -34,7 +34,7 @@
    "magazines": [ [ "408", [ "408SVL_mag" ] ] ]
    },
    {
-   "id": "lobavemag338",
+   "id": "lobaevmag338",
    "copy-from": "lobavemag408",
    "type": "GUN",
    "name": "Lobave SVL 338 with magazine",
