@@ -1,6 +1,6 @@
  [
   {
-    "id": "gewehr",
+    "id": "ggp",
     "type": "AMMO",
     "name": "Gross Gewehr-Panzergranate",
     "description": "The Große Gewehr-Panzergranate is launched from a Schiessbecher.Being developed as an anit personnel grenade it has fantastic piercing capability, but it has poor range.",
@@ -24,7 +24,7 @@
     },
     {
     "id": "gs",
-    "copy-from": "gewehr",
+    "copy-from": "ggp",
      "type": "AMMO",
     "name": "Gewehr-Sprenggranate",
     "description": "The Gewehr-Sprenggranate is launched from a Schiessbecher. It is similar to the Gross Gewehr-Panzergranate in design but it is smaller, has more explosive force and has little to no piercing capabilitie due to the tip being blunt.",
