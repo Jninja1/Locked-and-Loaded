@@ -28,5 +28,11 @@
 	"id": "792",
 	"name": "792x52mm",
 	"default": "792"
+	},
+	{
+	"type": "ammunition_type",
+	"id": "gewehr",
+	"name": "gewehr",
+	"default": "gewehr"
 	}
 ]
