@@ -31,8 +31,8 @@
 	},
 	{
 	"type": "ammunition_type",
-	"id": "gewehr",
+	"id": "ggp",
 	"name": "gewehr",
-	"default": "gewehr"
+	"default": "ggp"
 	}
 ]
