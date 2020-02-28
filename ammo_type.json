@@ -32,7 +32,7 @@
 	{
 	"type": "ammunition_type",
 	"id": "ggp",
-	"name": "gewehr",
+	"name": "ggp",
 	"default": "ggp"
 	}
 ]
