@@ -37,7 +37,9 @@
 	    "type": "item_group",
 	    "id": "ammo_rifle_obscure",
 	    "items": [
-		    ["145114", 5]
+		    ["145114", 5],
+		    [ "ggp", 20 ],
+		    [ "gs", 40 ]
 		    ]
     }
 	
