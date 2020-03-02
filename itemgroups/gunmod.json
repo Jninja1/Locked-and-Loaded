@@ -2,6 +2,6 @@
   {
   "type": "item_group",
     "id": "gunmod_rare",
-    "items": [ [ "karlauncher" ] ]
+    "items": [ [ "karlauncher", 30 ] ]
     }
    ] 
