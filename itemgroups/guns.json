@@ -33,7 +33,8 @@
       { "item": "lobaevmag408", "prob": 30, "charges-min": 0, "charges-max": 5 },
       { "item": "lobaevmag338", "porb": 30, "charges-min": 0, "charges-max ": 5}, 
       { "item": "lobaev408", "prob": 50, "charges-min": 0, "charges-max": 5 },
-      { "item": "lobaev338", "porb": 50, "charges-min": 0, "charges-max ": 5}
+      { "item": "lobaev338", "porb": 50, "charges-min": 0, "charges-max ": 5},
+      { "item": "950rifle", "prob": 5, "charges-min": 0, "charges-max": 1 }
       ]
   }
   
