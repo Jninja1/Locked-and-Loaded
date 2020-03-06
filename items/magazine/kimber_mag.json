@@ -186,7 +186,7 @@
     "material": "plastic",
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": "9mm",
+    "ammo_type": "380",
     "capacity": 7,
     "reliability": 7,
     "reload_time": 140,
