@@ -1,10 +1,10 @@
 [
   {
   "type": "MOD_INFO",
-  "ident": "More_Snipers",
-  "name": "More Snipers",
+  "ident": "Locked_and_Loaded",
+  "name": "Locked and Loaded",
   "authors": [ "Jninja1" ],
-  "description": "Adds a handfull of new Sniper Rifles.",
+  "description": "Adds more guns and more ammo types for the gun nuts.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
