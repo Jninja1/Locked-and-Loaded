@@ -173,5 +173,23 @@
     "reliability": 7,
     "reload_time": 140,
     "flags": [ "MAG_COMPACT" ]
+    },
+    {
+    "id": "micro_mag",
+    "looks_like": "glock17_17",
+    "type": "MAGAZINE",
+    "name": "Kimber Cutsom extended magazine.",
+    "description": "A seven round .380 magazine for the Kimber Micro.",
+    "weight": "0.5 g",
+    "volume": "100 ml",
+    "price": 3500,
+    "material": "plastic",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9mm",
+    "capacity": 7,
+    "reliability": 7,
+    "reload_time": 140,
+    "flags": [ "MAG_COMPACT" ]
     }
     ]
