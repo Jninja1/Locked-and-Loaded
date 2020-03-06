@@ -17,6 +17,6 @@
     "dispersion": 480,
     "durability": 7,
     "min_cycle_recoil": 270,
-    "magazines": [ [ "380", [ "micro_mag" ] ] ]
+    "magazines": [ [ "380", [ "Kimber_Micro_mag" ] ] ]
       }
     ]
