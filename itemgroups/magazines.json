@@ -36,16 +36,16 @@
     "type": "item_group",
     "id": "mags_pistol_common",
     "items": [
-      [ "kimber45mag", 40],
-      [ "kimber45bigmag", 30],
-      [ "kimber40mag", 45],
-      [ "kimber40bigmag", 35],
-      [ "kimber38mag", 50],
-      [ "kimber38bigmag", 45],
-      [ "kimber10mag", 60],
-      [ "kimber10bigmag", 55],
-      [ "kimber9mag", 65],
-      [ "kimber9bigmag", 60],
+      [ "kimber45_mag", 40],
+      [ "kimber45big_mag", 30],
+      [ "kimber40_mag", 45],
+      [ "kimber40big_mag", 35],
+      [ "kimber38_mag", 50],
+      [ "kimber38big_mag", 45],
+      [ "kimber10_mag", 60],
+      [ "kimber10big_mag", 55],
+      [ "kimber9_mag", 65],
+      [ "kimber9big_mag", 60],
       [ "micro_mag", 70 ]
       ]
   }
