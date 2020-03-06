@@ -1,7 +1,7 @@
 [
   {
   "type": "item_group",
-  "id": "mags_milspec",
+  "id": "mags_rifle_milspec",
   "items": [
     [ "AWM_mag",  10],
     [ "SVD_mag",  10],
@@ -11,25 +11,41 @@
   },
   {
     "type": "item_group",
-    "id": "mags_rare",
+    "id": "mags_rifle_rare",
     "items": [
       [ "VSS_mag", 20 ]
       ]
   },
   {
     "type": "item_group",
-    "id": "mags_common",
+    "id": "mags_rifle_common",
     "items": [
       [ "RPR_mag", 30]
       ]
   },
   {
     "type": "item_group",
-    "id": "mags_obscure",
+    "id": "mags_rifle_obscure",
     "items": [
       [ "408SVL_mag", 30],
       [ "338SVL_mag", 30 ],
       [ "792_clip",  50 ] 
     ]
-   }
+   },
+  {
+    "type": "item_group",
+    "id": "mags_pistol_common",
+    "items": [
+      [ "kimber45mag", 40],
+      [ "kimber45bigmag", 30],
+      [ "kimber40mag", 45],
+      [ "kimber40bigmag", 35],
+      [ "kimber38mag", 50],
+      [ "kimber38bigmag", 45],
+      [ "kimber10mag", 60],
+      [ "kimber10bigmag", 55],
+      [ "kimber9mag", 65],
+      [ "kimber9bigmag", 60]
+      ]
+  }
  ]
