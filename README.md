@@ -1,5 +1,5 @@
-# More-Snipers
-Adds a couple of new sniper rifles and new ammo.
+# Locked-and-Loaded
+Adds more guns and ammo types for those gun nuts.
 
 Click the green button and then download zip file.
 
