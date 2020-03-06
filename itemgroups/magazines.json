@@ -45,7 +45,8 @@
       [ "kimber10mag", 60],
       [ "kimber10bigmag", 55],
       [ "kimber9mag", 65],
-      [ "kimber9bigmag", 60]
+      [ "kimber9bigmag", 60],
+      [ "micro_mag", 70 ]
       ]
   }
  ]
