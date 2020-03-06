@@ -36,6 +36,16 @@
       { "item": "lobaev338", "porb": 50, "charges-min": 0, "charges-max ": 5},
       { "item": "950rifle", "prob": 5, "charges-min": 0, "charges-max": 1 }
       ]
-  }
-  
+  },
+  {
+  "type": "item_group",
+    "id": "guns_pistol_common",
+    "items": [
+  { "item": "kimbercust45", "prob": 40, "charges-min": 0, "charges-max": 7 },
+  { "item": "kimbercust40", "prob": 30, "charges-min": 0, "charges-max": 7 },
+  { "item": "kimbercust38", "prob": 45, "charges-min": 0, "charges-max": 7 },
+  { "item": "kimbercust10", "prob": 50, "charges-min": 0, "charges-max": 7 },
+  { "item": "kimbercust9", "prob": 60, "charges-min": 0, "charges-max": 7 }
+  ]
+}
 ]
