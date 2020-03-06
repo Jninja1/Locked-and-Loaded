@@ -6,7 +6,7 @@
     "type": "GUN",
     "name": "Kimber Micro",
     "description": "The Kimber Micro is a lightweight, single-action pocket pistol chambered for the .380 ACP cartridge",
-    "weight": "12.9 g",
+    "weight": "13 g",
     "volume": "186ml",
     "price": 75000,
     "to_hit": -3,
