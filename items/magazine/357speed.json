@@ -1,0 +1,18 @@
+[
+  {
+    id": "357sig_speedloader6",
+    "looks_like": "38_speedloader",
+    "type": "MAGAZINE",
+    "name": ".357 sig 6 speedloader"
+    "description": "This speedloader can hold 6 rounds of .357sig and quickly reload a compatible revolver.",
+    "weight": "92 g",
+    "volume": "250 ml",
+    "price": 1500,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": [ "357sig" ],
+    "capacity": 6,
+    "flags": [ "SPEEDLOADER" ]
+  }
+]
