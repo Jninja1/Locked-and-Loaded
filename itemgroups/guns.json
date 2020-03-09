@@ -46,7 +46,8 @@
   { "item": "kimbercust38", "prob": 45, "charges-min": 0, "charges-max": 7 },
   { "item": "kimbercust10", "prob": 50, "charges-min": 0, "charges-max": 7 },
   { "item": "kimbercust9", "prob": 60, "charges-min": 0, "charges-max": 7 },
-  { "item": "kimbermicro", "prob": 70, "charges-min": 0, "charges-mac": 7}    
+  { "item": "kimbermicro", "prob": 70, "charges-min": 0, "charges-mac": 7},
+  { "item": "K6s", "prob": 50, "charges-min": 0, "charges-max": 6 }
   ]
 }
 ]
