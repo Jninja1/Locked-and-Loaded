@@ -46,6 +46,11 @@
 	"id": "44h",
 	"name": ".44 Henry",
 	"default": "44h"
+	},
+	{
+	"type": "ammuntion_type",
+	"id": "4440",
+	"name": "44-40",
+	"default": "4440"
 	}
-
 ]
