@@ -40,6 +40,12 @@
 	"id": "950",
 	"name": ".950 JDJ",
 	"default": "950"
+	},
+	{
+	"type": "ammunition_type",
+	"id": "44h",
+	"name": ".44 Henry",
+	"default": "44h"
 	}
 
 ]
