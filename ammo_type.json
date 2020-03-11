@@ -52,5 +52,17 @@
 	"id": "4440",
 	"name": "44-40",
 	"default": "4440"
+	},
+	{
+	"type": "ammuntion_type",
+	"id": "3840",
+	"name": "38-40",
+	"default": "3840"
+	},
+	{
+	"type": "ammuntion_type",
+	"id": "3220",
+	"name": "32-20",
+	"default": "3220"
 	}
 ]
