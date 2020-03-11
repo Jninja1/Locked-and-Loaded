@@ -74,8 +74,6 @@
   "flags": [ "RELOAD_ONE" ]
   },
   {
-  },
-  {
   "id": "win1873_3220",
   "copy_from": "rifle_manual",
   "looks_like": "pneumatic_bolt_driver",
