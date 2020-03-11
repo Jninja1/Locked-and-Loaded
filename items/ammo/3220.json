@@ -35,7 +35,7 @@
     "name": ".32-20 casing",
     "description": "An empty casing from a .32-20 round.",
     "material": "brass",
-    "volume": "50",
+    "volume": "50 ml",
     "weight": 1
     }
 ]
