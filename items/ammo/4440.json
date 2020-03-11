@@ -35,7 +35,7 @@
     "name": ".44-40 casing",
     "description": "An empty casing from a .44-40 round.",
     "material": "brass",
-    "volume": "50",
+    "volume": "100 ml",
     "weight": 1
     }
    ]
