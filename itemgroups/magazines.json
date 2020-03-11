@@ -46,7 +46,10 @@
       [ "kimber10big_mag", 55],
       [ "kimber9_mag", 65],
       [ "kimber9big_mag", 60],
-      [ "Kimber_Micro_mag", 70 ]
+      [ "Kimber_Micro_mag", 50 ],
+      [ "357mag_speedloader6", 60],
+      [ "4440_speedloader6", 30 ],
+      [ "45_speedloader6", 50 ]
       ]
   }
  ]
