@@ -15,7 +15,11 @@
     "id": "guns_rifle_rare",
   "items": [
   { "item": "M40", "prob": 20, "charges-min": 0, "charges-max": 5},
-  { "item": "VSS", "prob": 30, "charges-min": 0, "charges-max": 10}
+  { "item": "VSS", "prob": 30, "charges-min": 0, "charges-max": 10},
+  { "item": "kar98k", "prob": 60, "charges-min": 0, "charges-max": 5},
+  { "item": "1873_4440", "prob": 80, "charges-min": 0, "charges-max": 7},
+  { "item": "1873_3840", "prob": 70, "charges-min": 0, "charges-max": 7},
+  { "item": "1873_3220", "prob": 70, "charges-min": 0, "charges-max": 7}
     ]
   },
   {
@@ -34,7 +38,8 @@
       { "item": "lobaevmag338", "porb": 30, "charges-min": 0, "charges-max ": 5}, 
       { "item": "lobaev408", "prob": 50, "charges-min": 0, "charges-max": 5 },
       { "item": "lobaev338", "porb": 50, "charges-min": 0, "charges-max ": 5},
-      { "item": "950rifle", "prob": 5, "charges-min": 0, "charges-max": 1 }
+      { "item": "950rifle", "prob": 5, "charges-min": 0, "charges-max": 1 },
+      { "item": "1866", "prob": 30, "chages-min": 0, "charges-mac": 7 }
       ]
   },
   {
