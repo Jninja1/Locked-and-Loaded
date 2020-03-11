@@ -17,6 +17,6 @@
     "dispersion": 300,
     "durability": 8,
     "clip_size": 6,
-    "magazines": [ [ "357sig", [ "357sig_speedloader6" ] ] ]
+    "magazines": [ [ "357mag", [ "357mag_speedloader6" ] ] ]
   }
 ]
