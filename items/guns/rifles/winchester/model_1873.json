@@ -1,6 +1,6 @@
 [
   { 
-  "id": "1873_4440",
+  "id": "win1873_4440",
   "copy_from": "rifle_manual",
   "looks_like": "pneumatic_bolt_driver",
   "type": "GUN",
@@ -37,12 +37,12 @@
   "flags": [ "RELOAD_ONE" ]
   },
   {
-  "id": "1873_3840",
+  "id": "win1873_3840",
   "copy-from": "1873_4440",
   "ammo_type": "3840"
   },
   {
-  "id": "1873_3220",
+  "id": "win1873_3220",
   "copy-from": "1873_4440",
   "ammo_type": "3220"
     }
