@@ -38,12 +38,12 @@
   },
   {
   "id": "win1873_3840",
-  "copy-from": "1873_4440",
+  "copy-from": "win1873_4440",
   "ammo_type": "3840"
   },
   {
   "id": "win1873_3220",
-  "copy-from": "1873_4440",
+  "copy-from": "win1873_4440",
   "ammo_type": "3220"
     }
   ]
