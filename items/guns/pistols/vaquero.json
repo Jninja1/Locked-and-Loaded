@@ -7,7 +7,7 @@
     "name": "Ruger Vaquero",
     "description": "The Ruger Vaquero is a six-shot single action revolver manufactured by Ruger. The revolver was made to meet the growing demand for the sport of Cowboy action shooting. While being a bit bulky it is able to be chambered in five diffrent ammo types.",
     "weight": "1400 g",
-    "volume": "600 ml",
+    "volume": "1 L",
     "price": 82900,
     "to_hit": -2,
     "bashing": 6,
