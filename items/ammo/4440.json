@@ -15,7 +15,7 @@
     "ammo_type": "4440",
     "casing": "4440_casing",
     "range": 31,
-    "damage": 30,
+    "damage": 25,
     "pierce": 3,
     "dispersion": 120,
     "recoil": 200
