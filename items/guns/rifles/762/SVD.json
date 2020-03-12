@@ -9,7 +9,7 @@
   "name_plural": "SVD",
   "description": "A Soviet Russia sniper rifle chamber in 7.62x54mmR. With exceptional range, this gun is deadly in the right hands.",
   "weight": "4300 g",
-  "volume": 3,
+  "volume": "3 L",
   "price": 500000,
   "to_hit": -2,
   "bashing": 8,
