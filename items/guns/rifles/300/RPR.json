@@ -8,7 +8,7 @@
   "name": "Ruger Precision Rifle",
   "description": "The Ruger Precision Rifle is developed by the Ruger company. Newer modles are chambered in 300 Winchester or 338 Lapua Magnum. The rifle living up to its name is quite precise.",
   "weight": "6895 g",
-  "volume": "2 L",
+  "volume": "3 L",
   "price": 200000,
   "to_hit": -2,
   "bashing": 7,
