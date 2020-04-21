@@ -14,7 +14,7 @@
   "bashing": 8,
   "durablity": 6,
   "material": ["steel"],
-  "ammo": "22",
+  "ammo": "arrow",
   "clip_size": 1,
   "barrel_length": "140 ml",
    "built_in_mods": [ "XBRbarrel" ],
