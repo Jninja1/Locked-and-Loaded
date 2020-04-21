@@ -59,5 +59,18 @@
   { "item": "vaquero44", "prob": 30, "charges-min": 0, "charges-max": 6 },
   { "item": "vaquero45", "prob": 35, "charges-min": 0, "charges-max": 6 } 
   ]
+},
+  { "type": "item_group",
+    "id": "guns_shotgun_common",
+  "items": [
+  { "item": "887nitro", "prob": 25, "charges-min": 0, "charges-max":5}
+  ]
+},
+  {
+     "type": "item_group",
+    "id": "guns_shotgun_rare",
+    "items": [
+      {"item": "887tac", "prob": 20, "charges-min": 0, "charges-max": 7}
+      ]
 }
 ]
