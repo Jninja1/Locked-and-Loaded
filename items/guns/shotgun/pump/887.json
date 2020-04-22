@@ -1,11 +1,11 @@
 [
   {
   "id": "887nitro",
-  "name": "Remington 887 Nitro",
   "copy-from": "shotgun_pump",
+  "name": "Remington 887 Nitro",
+  "type": "GUN",  
   "description": "The Remington 887 Nitro is similar looking to the Remington 870 line. The 887 and the 870 have the same build, but they have two diffrent actions. The 870 lifts the shell, whereas the 887 has a roating bolt.",
   "looks-like": "remington_870",
-  "type": "GUN",
   "symbol": "(",
   "weight": "3345 g",
   "volume": "2.75 L",
