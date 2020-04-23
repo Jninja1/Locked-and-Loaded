@@ -2,7 +2,6 @@
   {
   "id": "crackshot",
   "name": "XBR Crackshot",
-  "copy-from": "rifle_manual",
   "looks-like": "ar15",
   "type": "GUN",
   "symbol": "_",
