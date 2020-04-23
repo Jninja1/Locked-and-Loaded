@@ -12,11 +12,11 @@
   "to-hit": -1,
   "bashing": 8,
   "durablity": 6,
-  "material": ["steel"],
+   "skill": "rifle",
+  "material": ["steel", "plastic"],
   "ammo": "arrow",
   "clip_size": 1,
   "barrel_length": "140 ml",
-   "built_in_mods": [ "XBRbarrel" ],
   "valid_mod_locations": [
      [ "accessories", 4 ],
       [ "barrel", 1 ],
