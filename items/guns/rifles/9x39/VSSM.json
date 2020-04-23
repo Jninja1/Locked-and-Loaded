@@ -34,6 +34,7 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-   "magazines": [["939", ["VSS_mag"]]]
-     }
- ]
+   "magazines":[ 
+    ["939", ["VSS_mag", "bigVSS_mag" ] ] ]
+    }
+    ]
