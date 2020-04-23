@@ -33,8 +33,6 @@
       [ "sling", 1 ]
     ],
    "magazines":[ 
-    [["545x39", ["XM8_mag"]]],
-    [["545x39", ["bigXM8_mag"]]]
-    ]
+  [ "545x39", [ "XM8_mag", "bigXM8_mag" ] ] ]   
  }
  ]
