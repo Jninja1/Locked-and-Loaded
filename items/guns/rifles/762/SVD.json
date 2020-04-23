@@ -30,6 +30,6 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-   "magazines": [["762", ["SVD_mag"]]]
+   "magazines": [["762R", ["SVD_mag"]]]
      }
  ]
