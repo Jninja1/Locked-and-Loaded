@@ -70,5 +70,11 @@
 	"id": "5842",
 	"name": "5.8x42mm",
 	"default": "5842"
+	},
+	{
+	"type": "ammuntion_type",
+	"id": "556",
+	"name": "5.56x45mm",
+	"default": "556"
 	}
 ]
