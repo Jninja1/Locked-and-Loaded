@@ -13,6 +13,7 @@
   "price": 25000,
   "to_hit": -2,
   "bashing": 8,
+  "durability": 8,
   "material": ["steel", "plastic" ],
   "symbol": "~",
   "ammo": "545x39",
@@ -21,7 +22,7 @@
   "dispersion": 100,
   "barrel_length": "36 ml",
   "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 12 ] ],
-  "built_in_mods": [ "rifle_scope" ],
+  "built_in_mods": [ "acog_scope" ],
   "valid_mod_locations": [
      [ "accessories", 4 ],
       [ "barrel", 1 ],
