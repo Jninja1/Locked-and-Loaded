@@ -542,7 +542,7 @@
     ]
   },
   {
-    "result": "reloaded_556",
+    "result": "reloaded_55645",
    "type": "recipe",
    "category": "CC_AMMO",
    "subcategory": "CSC_AMMO_RIFLE",
@@ -556,14 +556,14 @@
    "reversible": true,
    "using": [ [ "bullet_forming", 2 ], [ "ammo_bullet", 2 ] ],
    "components": [
-      [ [ "556_casing", 1 ] ],
+      [ [ "55645_casing", 1 ] ],
       [ [ "smrifle_primer", 1 ] ],
       [ [ "gunpowder", 15 ], [ "gunpowder_rifle", 12 ], [ "gunpowder_magnum_pistol", 12 ] ],
       [ [ "copper", 2 ] ]
     ]
   },
   {
-   "result": "bp_556",
+   "result": "bp_55645",
    "type": "recipe",
    "category": "CC_AMMO",
    "subcategory": "CSC_AMMO_RIFLE",
@@ -577,7 +577,7 @@
    "reversible": true,
    "using": [ [ "bullet_forming", 2 ], [ "ammo_bullet", 2 ] ],
    "components": [
-      [ [ "556_casing", 1 ] ],
+      [ [ "55645_casing", 1 ] ],
       [ [ "smrifle_primer", 1 ] ],
       [ [ "chem_black_powder", 3 ] ],
       [ [ "copper", 4 ] ]
