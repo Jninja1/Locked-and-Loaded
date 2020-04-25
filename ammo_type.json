@@ -72,7 +72,7 @@
 	"default": "5842"
 	},
 	{
-	"type": "ammuntion_type",
+	"type": "ammunition_type",
 	"id": "556",
 	"name": "5.56x45mm",
 	"default": "556"
