@@ -577,10 +577,10 @@
    "reversible": true,
    "using": [ [ "bullet_forming", 2 ], [ "ammo_bullet", 2 ] ],
    "components": [
-      [ [ "556_casing", 1 ] ],
+      [ [ "5856_casing", 1 ] ],
       [ [ "smrifle_primer", 1 ] ],
       [ [ "chem_black_powder", 3 ] ],
-      [ [ "copper", 2 ] ]
+      [ [ "copper", 4 ] ]
     ]
   }
 ] 
