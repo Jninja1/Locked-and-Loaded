@@ -17,6 +17,7 @@
   "material": ["steel", "plastic"],
   "ammo": "arrow",
   "clip_size": 1,
+  "default_mods": [ "XBRbarrel"],
   "barrel_length": "140 ml",
   "valid_mod_locations": [
      [ "accessories", 4 ],
