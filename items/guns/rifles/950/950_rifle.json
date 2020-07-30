@@ -14,7 +14,6 @@
     "material": "steel",
     "ammo": "950",
     "range": 230,
-    "ranged_damage": -5,
     "dispersion": 300,
     "durability": 9,
     "//": "barrle volume is estimated as I can't find the actual barrel length.", 
