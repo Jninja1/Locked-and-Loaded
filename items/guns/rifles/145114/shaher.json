@@ -14,7 +14,6 @@
     "material": "steel",
     "ammo": "145114",
     "range": 120,
-    "ranged_damage": -5,
     "dispersion": 150,
     "durability": 8,
     "barrel_length": "1631 ml",
