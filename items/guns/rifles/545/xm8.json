@@ -16,7 +16,7 @@
   "durability": 8,
   "material": ["steel", "plastic" ],
   "symbol": "~",
-  "ammo": "545x39",
+  "ammo": [ "545x39" ],
   "skill": "rifle",
   "range": 37,
   "dispersion": 100,
@@ -33,7 +33,14 @@
       [ "sights", 1 ],
       [ "sling", 1 ]
     ],
-   "magazines":[ 
-  [ "545x39", [ "XM8_mag", "bigXM8_mag" ] ] ]   
+   "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "xm8_mag, bigxm8_mag" ]
+      }
+    ]  
  }
  ]
