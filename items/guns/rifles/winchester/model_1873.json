@@ -13,7 +13,7 @@
   "to_hit": -2,
   "materials": ["steel", "wood"],
  "symbol": "|",
-  "ammo": "4440",
+  "ammo": [ "4440" ],
  "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -34,7 +34,8 @@
       [ "underbarrel", 1 ]
     ],
   "clip_size": 7,
-  "flags": [ "RELOAD_ONE" ]
+  "flags": [ "RELOAD_ONE" ],
+     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "4440": 7 } } ]
   },
   {
  "id": "win1873_3840",
@@ -50,7 +51,7 @@
   "to_hit": -2,
   "materials": ["steel", "wood"],
  "symbol": "|",
-  "ammo": "3840",
+  "ammo": [ "3840" ],
  "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -71,7 +72,8 @@
       [ "underbarrel", 1 ]
     ],
   "clip_size": 7,
-  "flags": [ "RELOAD_ONE" ]
+  "flags": [ "RELOAD_ONE" ],
+     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "3840": 7 } } ]
   },
   {
   "id": "win1873_3220",
@@ -87,7 +89,7 @@
   "to_hit": -2,
   "materials": ["steel", "wood"],
  "symbol": "|",
-  "ammo": "3220",
+  "ammo": [ "3220" ],
  "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -108,6 +110,7 @@
       [ "underbarrel", 1 ]
     ],
   "clip_size": 7,
-  "flags": [ "RELOAD_ONE" ]
+  "flags": [ "RELOAD_ONE" ],
+     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "3220": 7 } } ]
     }
   ]
