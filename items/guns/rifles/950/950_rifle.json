@@ -12,7 +12,7 @@
     "to_hit": -2,
     "bashing": 16,
     "material": "steel",
-    "ammo": "950",
+    "ammo": [ "950" ],
     "range": 230,
     "dispersion": 300,
     "durability": 9,
@@ -20,6 +20,7 @@
     "barrel_length": "540 ml",
     "default_mods": [ "bipod", "rifle_scope", "muzzle_brake" ],
     "clip_size": 1,
-    "flags": [ "NEVER_JAMS" ]
+    "flags": [ "NEVER_JAMS" ],
+     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "950": 1 } } ]
     }
     ]
