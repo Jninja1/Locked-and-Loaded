@@ -54,7 +54,8 @@
       [ "Kimber_Micro_mag", 50 ],
       [ "357mag_speedloader6", 60],
       [ "4440_speedloader6", 30 ],
-      [ "45_speedloader6", 50 ]
+      [ "45_speedloader6", 50 ],
+      [ "bodyguard_mag", 80 ]
       ]
   }
  ]
