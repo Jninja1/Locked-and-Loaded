@@ -15,7 +15,7 @@
   "material": [ "steel", "plastic" ],
   "symbol": "-",
   "color": "black",
-  "ammo": "300",
+  "ammo": [ "300" ],
   "skill": "rifle",
   "dispersion": 50,
   "durability": 6,
@@ -34,6 +34,14 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "magazines": [ [ "300", [ "RPR_mag" ] ] ]
+   "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "RPR_mag" ]
+      }
+    ]
     }
    ]
