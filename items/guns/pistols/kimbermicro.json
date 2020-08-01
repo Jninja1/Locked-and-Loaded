@@ -13,7 +13,7 @@
     "bashing": 1,
     "material": [ "steel" ],
     "color": "dark_gray",
-    "ammo": "380",
+    "ammo": [ "380" ],
     "dispersion": 480,
     "durability": 7,
     "barrel_length": "6 ml",
