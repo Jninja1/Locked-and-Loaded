@@ -14,7 +14,7 @@
     "bashing": 12,
     "material": [ "steel", "wood" ],
     "color": "brown",
-    "ammo": "762",
+    "ammo": [ "762" ],
     "dispersion": 80,
     "durability": 8,
     "clip_size": 5,
@@ -23,6 +23,7 @@
     [ "sights", 1],
     [ "sling", 1]
     ],
-    "flags": [ "RELOAD_ONE", "NEVER_JAMS" ]
+    "flags": [ "RELOAD_ONE", "NEVER_JAMS" ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "762": 5 } } ]
     }
    ]
