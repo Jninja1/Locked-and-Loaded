@@ -52,7 +52,8 @@
     "durability": 7,
     "min_cycle_recoil": 450,
     "barrel_length": "18 ml",
-     {
+     "pocket_data": [
+      {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
@@ -83,7 +84,8 @@
     "durability": 7,
     "min_cycle_recoil": 450,
     "barrel_length": "15 ml",
-    {
+    "pocket_data": [
+      {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
@@ -114,7 +116,8 @@
     "durability": 7,
     "min_cycle_recoil": 450,
       "barrel_length": "18 ml",
-   {
+  "pocket_data": [
+      {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
@@ -145,7 +148,8 @@
     "durability": 7,
     "min_cycle_recoil": 450,
       "barrel_length": "15 ml",
-   {
+  "pocket_data": [
+      {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
