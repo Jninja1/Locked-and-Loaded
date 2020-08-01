@@ -14,7 +14,7 @@
   "material": [ "steel" ],
   "symbol": "`",
   "color": "black",
-  "ammo": "50",
+  "ammo": [ "50" ],
   "skill": "rifle",
   "dispersion": 20,
   "durability": 6,
@@ -34,6 +34,14 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "magazines": [ [ "50", [ "M82_mag" ] ] ]
+ "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "m82_mag" ]
+      }
+    ]
     }
    ]
