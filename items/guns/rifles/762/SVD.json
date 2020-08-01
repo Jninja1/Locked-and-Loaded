@@ -15,7 +15,7 @@
   "bashing": 8,
   "material": ["steel", "plastic", "wood" ],
   "symbol": "-",
-  "ammo": "762R",
+  "ammo": [ "762R" ],
   "skill": "rifle",
   "range": 70,
   "dispersion": 30,
@@ -30,6 +30,13 @@
       [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ],
-   "magazines": [["762R", ["SVD_mag"]]]
+   "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "SVD_mag" ]
+      }
      }
  ]
