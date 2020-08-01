@@ -59,7 +59,8 @@
   { "item": "vaquero38", "prob": 50, "charges-min": 0, "charges-max": 6 },
   { "item": "vaquero4440", "prob": 45, "charges-min": 0, "charges-max": 6 },
   { "item": "vaquero44", "prob": 30, "charges-min": 0, "charges-max": 6 },
-  { "item": "vaquero45", "prob": 35, "charges-min": 0, "charges-max": 6 } 
+  { "item": "vaquero45", "prob": 35, "charges-min": 0, "charges-max": 6 },
+  { "item": "bodyguard", "prob": 60, "charges-min": 0, "charges-max": 7 }
   ]
 },
   { "type": "item_group",
