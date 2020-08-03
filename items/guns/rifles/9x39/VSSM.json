@@ -41,7 +41,7 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "VSS_mag, bigVSS_mag" ]
+        "item_restriction": [ "VSS_mag", "bigVSS_mag" ]
       }
     ]
     }
