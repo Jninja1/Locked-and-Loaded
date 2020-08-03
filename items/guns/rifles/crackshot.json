@@ -15,7 +15,7 @@
   "range": 15,
   "skill": "rifle",
   "material": ["steel", "plastic"],
-  "ammo": "arrow",
+  "ammo": [ "arrow" ],
   "clip_size": 1,
   "default_mods": [ "XBRbarrel"],
   "barrel_length": "140 ml",
@@ -28,6 +28,7 @@
       [ "mechanism", 4 ],
       [ "sights", 1 ],
       [ "sling", 1 ]
-    ]
+    ],
+      "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "arrow": 1 } } ]
     }
     ]
