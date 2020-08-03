@@ -39,7 +39,7 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "xm8_mag, bigxm8_mag" ]
+        "item_restriction": [ "XM8_mag, bigXM8_mag" ]
       }
     ]  
  }
