@@ -43,4 +43,6 @@
         "max_contains_weight": "20 kg",
         "item_restriction": [ "VSS_mag, bigVSS_mag" ]
       }
+      ]
+      }
     ]
