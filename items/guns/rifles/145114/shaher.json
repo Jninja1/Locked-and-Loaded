@@ -21,3 +21,5 @@
     "clip_size": 1,
     "flags": [ "NEVER_JAMS" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "holster": true, "rigid": true, "ammo_restriction": { "145114": 1 } } ]
+  }
+]
