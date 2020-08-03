@@ -25,7 +25,8 @@
        [ "brass catcher", 1 ]
        ],
        "FLAGS": ["RELOAD_ONE"],
-       "barrel_length": "236 ml"
+       "barrel_length": "236 ml",
+     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 5 } } ]
        },
        {
   "id": "887tac",
@@ -57,7 +58,8 @@
       [ "sights", 1 ],
       [ "sling", 1 ],
       [ "stock", 1 ]
-    ]
+    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 5 } } ]
     }
     ]
   
