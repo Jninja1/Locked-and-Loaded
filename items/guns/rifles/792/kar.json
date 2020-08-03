@@ -28,7 +28,7 @@
       [ "sights", 1 ],
       [ "sling", 1 ]
     ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "792": 5 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "792": 5 } } ],
     "flags": [ "RELOAD_ONE" ]
     }
 ]
