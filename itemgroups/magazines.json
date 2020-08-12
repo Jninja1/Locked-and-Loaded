@@ -16,7 +16,11 @@
     "type": "item_group",
     "id": "mags_rifle_rare",
     "items": [
-      [ "VSS_mag", 20 ]
+      [ "VSS_mag", 20 ],
+      [ "american165", 50],
+      [ "american177", 40],
+      [ "american220", 30],
+      [ "american275", 10]
       ]
   },
   {
