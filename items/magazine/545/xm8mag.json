@@ -15,6 +15,7 @@
     "capacity": 30,
     "reliability": 10,
     "flags": [ "MAG_COMPACT" ],
+     "//": "Zero max volume",
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "545x39": 30 } } ]
   },
   {
@@ -32,6 +33,7 @@
     "ammo_type": [ "545x39" ],
     "capacity": 100,
     "reliability": 5,
+     "//": "Zero max volume",
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "545x39 ": 100 } } ]
   }
 ]
