@@ -1,6 +1,6 @@
 [
-   {
-"id": "AW50",
+  {
+    "id": "AW50",
     "copy-from": "rifle_manual",
     "looks_like": "SKS",
     "type": "GUN",
@@ -35,7 +35,7 @@
     ],
     "pocket_data": [
       {
-         "magazine_well": "300 ml",
+        "magazine_well": "300 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "20 L",
@@ -43,6 +43,5 @@
         "item_restriction": [ "AW50_mag" ]
       }
     ]
-      }
-   ]
-  
+  }
+]

@@ -1,5 +1,5 @@
 [
- {
+  {
     "copy-from": "pistol_base",
     "id": "bodyguard",
     "looks_like": "glock_17",
@@ -19,10 +19,10 @@
     "dispersion": 200,
     "durability": 7,
     "min_cycle_recoil": 450,
-    "barrel_volume": "10 ml",
-    "default_mods": [ "laser_sight"],
+    "barrel_length": "10 ml",
+    "default_mods": [ "laser_sight" ],
     "magazine_well": 1,
-   "pocket_data": [
+    "pocket_data": [
       {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
@@ -30,7 +30,7 @@
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
         "item_restriction": [ "bodyguard_mag" ]
-        }
-       ]
       }
     ]
+  }
+]

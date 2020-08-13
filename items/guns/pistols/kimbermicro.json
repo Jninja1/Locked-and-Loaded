@@ -18,7 +18,7 @@
     "durability": 7,
     "barrel_length": "6 ml",
     "min_cycle_recoil": 270,
-   "pocket_data": [
+    "pocket_data": [
       {
         "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
@@ -26,7 +26,7 @@
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
         "item_restriction": [ "Kimber_Micro_mag" ]
-          }
-        ]
       }
     ]
+  }
+]

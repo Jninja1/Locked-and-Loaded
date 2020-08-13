@@ -18,7 +18,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 165 } } ]
   },
   {
-  "id": "american177",
+    "id": "american177",
     "type": "MAGAZINE",
     "name": "American-180 177 round drum",
     "description": "A magazine for an American 180 it can hold 177 rouds of 22LR!.",
@@ -32,10 +32,10 @@
     "ammo_type": [ "22" ],
     "capacity": 177,
     "reliability": 6,
-    "flags": [ "MAG_BULKY" ], 
+    "flags": [ "MAG_BULKY" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 177 } } ]
-    },
-    {
+  },
+  {
     "id": "american220",
     "type": "MAGAZINE",
     "name": "American-180 220 round drum",
@@ -51,9 +51,9 @@
     "capacity": 220,
     "reliability": 6,
     "flags": [ "MAG_BULKY" ],
-     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 220 } } ]
-    },
-    {
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 220 } } ]
+  },
+  {
     "id": "american275",
     "type": "MAGAZINE",
     "name": "American-180 275 round drum",
@@ -69,6 +69,6 @@
     "capacity": 275,
     "reliability": 6,
     "flags": [ "MAG_BULKY" ],
-     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 275 } } ]
-    }
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "22": 275 } } ]
+  }
 ]
