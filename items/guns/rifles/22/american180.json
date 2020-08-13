@@ -1,5 +1,5 @@
 [
- {   
+  {
     "id": "american180",
     "looks_like": "hk_mp5",
     "type": "GUN",
@@ -36,7 +36,7 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
- "pocket_data": [
+    "pocket_data": [
       {
         "magazine_well": "99 ml",
         "pocket_type": "MAGAZINE_WELL",
@@ -45,6 +45,6 @@
         "max_contains_weight": "20 kg",
         "item_restriction": [ "american165", "american177", "american220", "american275" ]
       }
-     ]
-   }
-  ]
+    ]
+  }
+]
