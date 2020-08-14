@@ -22,6 +22,7 @@
     "durability": 7,
     "//": "The VSS' barrel is extremly short...",
     "barrel_length": "32 ml",
+    "longest_side": "894 mm",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
     "built_in_mods": [ "suppressor" ],
     "valid_mod_locations": [
@@ -36,7 +37,6 @@
     ],
     "pocket_data": [
       {
-        "magazine_well": "250 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "20 L",
