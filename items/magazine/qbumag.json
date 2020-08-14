@@ -14,9 +14,7 @@
     "ammo_type": [ "5842" ],
     "capacity": 10,
     "reliability": 10,
-    "flags": [ "MAG_COMPACT" ],
-    "//": "Zero max volume",
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { " 5842": 10 } } ]
+    "flags": [ "MAG_COMPACT" ]
   },
   {
     "id": "mod88_mag",
@@ -33,8 +31,6 @@
     "ammo_type": [ "55645" ],
     "capacity": 10,
     "reliability": 10,
-    "flags": [ "MAG_COMPACT" ],
-     "//": "Zero max volume",
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "55645 ": 10 } } ]
+    "flags": [ "MAG_COMPACT" ]
   }
 ]
