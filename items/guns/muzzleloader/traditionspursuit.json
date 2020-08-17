@@ -28,6 +28,6 @@
        [ "rail mount", 1 ],
        [ "sights mount", 1 ]
       ],
-    "flags": [ "NEVER_JAMS", "DURABLE_MELEE" ],
+    "flags": [ "NEVER_JAMS", "DURABLE_MELEE" ]
   }
 ]
