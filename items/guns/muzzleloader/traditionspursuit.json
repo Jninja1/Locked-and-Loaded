@@ -27,7 +27,7 @@
        [ "sling", 1 ],
        [ "rail mount", 1 ],
        [ "sights mount", 1 ],
-      ],
+      ]
     "flags": [ "NEVER_JAMS", "DURABLE_MELEE" ],
   }
 ]
