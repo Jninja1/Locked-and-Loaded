@@ -21,7 +21,8 @@
       { "item": "kar98k", "prob": 60, "charges-min": 0, "charges-max": 5 },
       { "item": "win1873_4440", "prob": 80, "charges-min": 0, "charges-max": 7 },
       { "item": "win1873_3840", "prob": 70, "charges-min": 0, "charges-max": 7 },
-      { "item": "win1873_3220", "prob": 70, "charges-min": 0, "charges-max": 7 }
+      { "item": "win1873_3220", "prob": 70, "charges-min": 0, "charges-max": 7 },
+      { "item": "pursuit", "prob" 20, "charges-min": 0, "charges-max": 1 }
     ]
   },
   {
