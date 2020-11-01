@@ -491,7 +491,7 @@
     "reversible": true,
     "using": [ [ "bullet_forming", 2 ], [ "ammo_bullet", 2 ] ],
     "components": [
-      [ [ "55645_casing", 1 ] ],
+      [ [ "5842_casing", 1 ] ],
       [ [ "smrifle_primer", 1 ] ],
       [ [ "gunpowder", 15 ], [ "gunpowder_rifle", 12 ], [ "gunpowder_magnum_pistol", 12 ] ],
       [ [ "copper", 2 ] ]
@@ -511,7 +511,7 @@
     "charges": 1,
     "reversible": true,
     "using": [ [ "bullet_forming", 2 ], [ "ammo_bullet", 2 ] ],
-    "components": [ [ [ "55645_casing", 1 ] ], [ [ "smrifle_primer", 1 ] ], [ [ "chem_black_powder", 3 ] ], [ [ "copper", 4 ] ] ]
+    "components": [ [ [ "5842_casing", 1 ] ], [ [ "smrifle_primer", 1 ] ], [ [ "chem_black_powder", 3 ] ], [ [ "copper", 4 ] ] ]
   },
   {
     "result": "50_bb",
