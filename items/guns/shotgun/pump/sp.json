@@ -4,7 +4,7 @@
     "copy-from": "shotgun_pump",
     "name": "Remington SP-10",
     "type": "GUN",
-    "description": "The Remington 887 Nitro is similar looking to the Remington 870 line. The 887 and the 870 have the same build, but they have two diffrent actions. The 870 lifts the shell, whereas the 887 has a roating bolt.",
+    "description": "The Remington SP-10 is a gas operated pump action shotgun that fires 10 gauge shells. It was made from 1989-2011 with the design being inspired by the Ithaca Mag-10.",
     "looks-like": "remington_870",
     "symbol": "(",
     "weight": "5000 g",
