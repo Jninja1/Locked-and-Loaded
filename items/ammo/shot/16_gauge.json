@@ -46,7 +46,7 @@
     "effects": [ "COOKOFF" ]
     },
     {
-      "id": "16_gauge_birb",
+      "id": "16_gauge_4",
     "type": "AMMO",
     "name": "16 Guage #4",
     "description": "The 16 Gauge shell is very comparable to the 12 Gauge in preformamce. The 16 Gauge is lighter and has less recoil, buut it is very seldomly used due to various reasons the one mostly considered is the change to steel loads for waterfowl hunting This is a #4 load which is about the biggest load size one may find in a 16 Gauge.",
