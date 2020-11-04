@@ -76,5 +76,17 @@
     "id": "50_bb",
     "name": "50 Cal BB",
     "default": "50_bb"
+  },
+  {
+    "type": "ammunition_type",
+    "id": "10gauge",
+    "name": "10 Gauge",
+    "default": "10gauge",
+  },
+  {
+    "type": "ammunition_type",
+    "id": "16gauge",
+    "name": "16 Gauge",
+     "default": "16gauge",
   }
 ]
