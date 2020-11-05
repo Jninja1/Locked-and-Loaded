@@ -58,7 +58,7 @@
     "id": "ammo_shotgun_common",
     "subtype": "distribution",
     "items": [
-      { "item": "shot_000", "prob": 70 },
+      { "item": "shot_000", "prob": 70 }
       ]
   },
   {
