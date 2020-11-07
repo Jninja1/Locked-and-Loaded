@@ -80,13 +80,13 @@
   {
     "type": "ammunition_type",
     "id": "10gauge",
-    "name": "10 Gauge",
+    "name": "10 gauge",
     "default": "10gauge"
   },
   {
     "type": "ammunition_type",
     "id": "16gauge",
-    "name": "16 Gauge",
+    "name": "16 Gguge",
      "default": "16gauge"
   }
 ]
