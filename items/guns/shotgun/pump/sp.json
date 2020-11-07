@@ -21,6 +21,6 @@
     "FLAGS": [ "RELOAD_ONE" ],
     "barrel_length": "580 ml",
     "longest_side": "1130 mm",
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "10gauge": 3 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "10_gauge": 3 } } ]
   }
 ]
