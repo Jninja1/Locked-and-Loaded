@@ -11,7 +11,7 @@
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "material": [ "plastic", "powder" ],
     "symbol": "-",
-    "color": "purple",
+    "color": "blue",
     "count": 20,
     "stack_size": 20,
     "ammo_type": "16gauge",
