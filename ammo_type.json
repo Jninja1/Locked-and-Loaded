@@ -79,9 +79,9 @@
   },
   {
     "type": "ammunition_type",
-    "id": "10gauge",
+    "id": "10_gauge",
     "name": "10 gauge",
-    "default": "10gauge"
+    "default": "10_gauge"
   },
   {
     "type": "ammunition_type",
