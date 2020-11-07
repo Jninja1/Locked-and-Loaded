@@ -85,8 +85,8 @@
   },
   {
     "type": "ammunition_type",
-    "id": "16gauge",
+    "id": "16_gauge",
     "name": "16 gauge",
-     "default": "16gauge"
+     "default": "16_gauge"
   }
 ]
