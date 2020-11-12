@@ -76,14 +76,5 @@
    "type": "item_group",
     "id": "guns_smg_rare",
     "items": [ { "item": "american180", "prob": 50, "charges-min": 0, "charges-max": 275} ]
-  },
-  {
-    "type": "item_group",
-    "id": "guns_shotgun_rare",
-    "subtype": "distribution",
-    "items": [
-      { "item": "sp10", "prob": 55, "charges-min": 0, "charges-max": 3 },
-      { "item": "remington_870_16", "prob": 40, "charges-min": 0, "charges-max": 5 }
-    ]
   }
 ]
