@@ -60,18 +60,5 @@
     "items": [
       { "item": "shot_000", "prob": 70 }
       ]
-  },
-  {
-     "type": "item_group",
-    "id": "ammo_shotgun_rare",
-    "subtype": "distribution",
-    "items": [
-      { "item": "10_gauge_birb", "prob": 40 },
-      { "item": "10_gauge_slug", "prob": 40 },
-      { "item": "10_gauge_00", "prob": 40 },
-      { "item": "16_gauge_birb", "prob": 30 },
-      { "item": "16_gauge_slug", "prob": 30 },
-      { "item": "16_gauge_4", "prob": 30 }
-    ]
   }
 ]
