@@ -72,7 +72,8 @@
   {
     "type": "item_group",
     "id": "guns_shotgun_common",
-    "items": [ { "item": "887nitro", "prob": 25, "charges-min": 0, "charges-max": 5 } ]
+    "items": [ { "item": "887nitro", "prob": 25, "charges-min": 0, "charges-max": 5 },
+               { "item": "nova", "prob": 20,  "charges-min": 0, "charges-max": 5 } ]
   },
   {
     "type": "item_group",
