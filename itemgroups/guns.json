@@ -63,6 +63,13 @@
     ]
   },
   {
+     "type": "item_group",
+    "id": "guns_pistol_rare",
+    "items": [
+      { "item": "93r", "prob": 45, "charges-min": 0, "charges-max": 20 }
+     ]
+  },
+  {
     "type": "item_group",
     "id": "guns_shotgun_common",
     "items": [ { "item": "887nitro", "prob": 25, "charges-min": 0, "charges-max": 5 } ]
