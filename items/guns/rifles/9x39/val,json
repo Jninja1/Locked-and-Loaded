@@ -1,6 +1,6 @@
 [
   {
-    "id": "val",
+    "id": "vsval",
     "copy_from": "gun_base",
     "reload_noise_volume": 10,
     "looks_like": "SKS",
