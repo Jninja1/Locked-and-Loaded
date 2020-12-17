@@ -61,7 +61,9 @@
       { "item": "vaquero4440", "prob": 45, "charges-min": 0, "charges-max": 6 },
       { "item": "vaquero44", "prob": 30, "charges-min": 0, "charges-max": 6 },
       { "item": "vaquero45", "prob": 35, "charges-min": 0, "charges-max": 6 },
-      { "item": "grach", "prob": 35, "charges-min": 0, "charges-max": 18 }
+      { "item": "grach", "prob": 35, "charges-min": 0, "charges-max": 18 },
+      { "item": "python", "prob": 15, "charges-min": 0, "charges-max": 6 }
+      
     ]
   },
   {
