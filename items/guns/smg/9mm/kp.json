@@ -37,7 +37,7 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "kp20_mag", "mp40mag_32rd", "kp36_mag", "kp40_mag", "kp50_mag", "kp71_mag" ]
+        "item_restriction": [ "KP20_mag", "mp40mag_32rd", "KP36_mag", "KP40_mag", "KP50_mag", "KP71_mag" ]
       }
     ]
   }
