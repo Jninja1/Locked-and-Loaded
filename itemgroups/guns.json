@@ -89,6 +89,9 @@
   {
    "type": "item_group",
     "id": "guns_smg_rare",
-    "items": [ { "item": "american180", "prob": 50, "charges-min": 0, "charges-max": 275} ]
+    "items": [ 
+      { "item": "american180", "prob": 50, "charges-min": 0, "charges-max": 275},
+       { "item": "kp", "prob": 30, "charges-min": 0, "charges-max": 71}
+    ]
   }
 ]
