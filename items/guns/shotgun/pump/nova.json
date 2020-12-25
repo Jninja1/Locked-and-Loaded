@@ -10,7 +10,7 @@
     "weight": "3630 g",
     "volume": "2500 ml",
     "price": 25000,
-    "to-hit": -2,
+    "to_hit": -2,
     "bashing": 10,
     "material": [ "steel", "wood" ],
     "ranged_damage": { "damage_type": "stab", "amount": 1 },
