@@ -21,7 +21,7 @@
     "dispersion": 150,
     "durability": 6,
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 13 ] ],
-    "barrel_length": "314 ml",
+    "barrel_volume": "314 ml",
     "valid_mod_locations": [
       [ "accessories", 1 ],
       [ "grip", 1 ],
