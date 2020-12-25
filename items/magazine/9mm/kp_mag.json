@@ -1,6 +1,6 @@
 [
   {
-    "id": "KP20",
+    "id": "KP20_mag",
     "type": "MAGAZINE",
     "name": "Suomi KP 20 round box magazine",
     "description": "A 20 round box magazine for the Suomi KP.",
@@ -17,7 +17,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "9mm": 20 } } ]
   },
   {
-    "id": "KP36",
+    "id": "KP36_mag",
     "type": "MAGAZINE",
     "name": "Suomi KP 20 round box magazine",
     "description": "A 36 round box magazine for the Suomi KP.",
@@ -34,7 +34,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "9mm": 36 } } ]
   },
   {
-    "id": "KP40",
+    "id": "KP40_mag",
    "type": "MAGAZINE",
     "name": "Suomi KP 40 round drum magazine",
     "description": "A 40 round drum magazine for the Suomi KP.",
@@ -50,7 +50,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "9mm": 40 } } ]
   },
   {
-    "id": "KP50",
+    "id": "KP50_mag",
   "type": "MAGAZINE",
     "name": "Suomi KP 50 round box magazine",
     "description": "A 50 round box magazine for the Suomi KP.",
@@ -67,7 +67,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "9mm": 50 } } ]
   },
   {
-  "id": "KP71",
+  "id": "KP71_mag",
     "type": "MAGAZINE",
     "name": "Suomi KP 71 round drum magazine",
     "description": "A 71 round drum magazine for the Suomi KP.",
