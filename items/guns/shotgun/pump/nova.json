@@ -5,7 +5,7 @@
     "name": "Benelli Nova",
     "type": "GUN",
     "description": "The Benelli Nova is a shotgun intended for hunting, but there exists a tactical version; the only difference between the hunting and the tactial version is that the latter is typcially shorter, has a reinforced stock, and preforms worse at longer ranges.",
-    "looks-like": "remington_870",
+    "looks_like": "remington_870",
     "symbol": "(",
     "weight": "3630 g",
     "volume": "2500 ml",
