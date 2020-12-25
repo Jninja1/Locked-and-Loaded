@@ -16,7 +16,7 @@
     "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.92 }, "dispersion": 1.1 }
   },
   {
-     "type": "AMMO",
+    "type": "AMMO",
     "id": "reloaded_408",
     "copy-from": "408",
     "naem_plural": "reloaded .408 Cheyenne Tactical",
