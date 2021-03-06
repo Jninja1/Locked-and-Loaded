@@ -10,7 +10,7 @@
     "skills_required": [ "gun", 1 ],
     "time": "20 m",
     "autolearn": true,
-    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ] ],
+    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ] ,
     "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
     "components": [ [ [ "sheet_metal_small", 2 ] ], [ [ "spring", 1 ] ] ]
   },
@@ -25,7 +25,7 @@
     "skills_required": [ "gun", 1 ],
     "time": "25 m",
     "autolearn": true,
-    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ] ],
+    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ],
     "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
     "components": [ [ [ "sheet_metal_small", 2 ] ], [ [ "spring", 2 ] ] ]
   },
@@ -40,7 +40,7 @@
     "skills_required": [ "gun", 2 ],
     "time": "29 m",
     "autolearn": true,
-    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ] ],
+    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ],
     "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
     "components": [ [ [ "sheet_metal_small", 3 ] ], [ [ "spring", 2 ] ] ]
   },
@@ -55,7 +55,7 @@
     "skills_required": [ "gun", 2 ],
     "time": "35 m",
     "autolearn": true,
-    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ] ],
+    "using": [ [ "22_casehead", 1 ], [ "welding_standard", 25 ] ],
     "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
     "components": [ [ [ "sheet_metal_small", 3 ] ], [ [ "spring", 3 ] ] ]
   }
