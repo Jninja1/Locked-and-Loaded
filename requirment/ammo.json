@@ -16,8 +16,8 @@
       "tools": [
       [
         [ "300_casing", -1 ],
-        [ "300", -1 ],
-        [ "reloaded_300", -1 ]
+        [ "300_winmag", -1 ],
+        [ "reloaded_300_winmag", -1 ]
       ]
     ]
   },
