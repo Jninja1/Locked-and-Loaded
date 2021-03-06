@@ -11,6 +11,17 @@
     ]
   },
   {
+  "id": "300_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "300_casing", -1 ],
+        [ "300", -1 ],
+        [ "reloaded_300", -1 ]
+      ]
+    ]
+  },
+  {
     "id": "338_casehead",
     "type": "requirement",
       "tools": [
@@ -86,7 +97,6 @@
     "tools": [
       [
         [ "9mm_casing", -1 ],
-        [ "9mm_casing_new", -1],
         [ "9mm", -1 ],
         [ "9mmfmj", -1],
         [ "9mmP", -1],
