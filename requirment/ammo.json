@@ -1,0 +1,90 @@
+[
+  {
+    "id": "145114_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "145114_casing", -1 ],
+        [ "145114_casing_new", -1 ],
+        [ "145114", -1 ],
+        [ "reloaded_145114", -1 ]
+      ]
+    ]
+  },
+  {
+    "id": "338_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "338_casing", -1 ],
+        [ "338_casing_new", -1 ],
+        [ "338", -1 ],
+        [ "reloaded_338", -1 ]
+      ]
+    ]
+  },
+  {
+    "id": "408_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "408_casing", -1 ],
+        [ "408_casing_new", -1 ],
+        [ "408", -1 ],
+        [ "reloaded_408", -1 ]
+      ]
+    ]
+  },
+  {
+    "id": "55645_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "5842_casing", -1 ],
+        [ "5842_casing_new", -1 ],
+        [ "55645", -1 ],
+        [ "reloaded_55645", -1 ]
+      ]
+    ]
+  },
+  {
+    "id": "5842_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "5842_casing", -1 ],
+        [ "5842_casing_new", -1 ],
+        [ "5842", -1 ],
+        [ "5842h", -1],
+        [ "reloaded_5842", -1 ],
+        [ "reloaded_5842h", -1] 
+      ]
+    ]
+  },
+  {
+    "id": "792_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "732_casing", -1 ],
+        [ "792_casing_new", -1 ],
+        [ "792", -1 ],
+        [ "reloaded_792", -1 ]
+      ]
+    ]
+  },
+  {
+    "id": "939_casehead",
+    "type": "requirement",
+      "tools": [
+      [
+        [ "939_casing", -1 ],
+        [ "939_casing_new", -1 ],
+        [ "939", -1 ],
+        [ "9396", -1],
+        [ "reloaded_939", -1 ],
+        [ "reloaded_939", -1]
+      ]
+    ]
+  }
+ ]
