@@ -79,5 +79,23 @@
         [ "reloaded_939", -1]
       ]
     ]
+  },
+  {
+    "id": "9mm_casehead",
+    "type": "requirement",
+    "tools": [
+      [
+        [ "9mm_casing", -1 ],
+        [ "9mm_casing_new", -1],
+        [ "9mm", -1 ],
+        [ "9mmfmj", -1],
+        [ "9mmP", -1],
+        [ "9mmP2", -1],
+        [ "reloaded_9mm", -1],
+        [ "reloaded_9mmfmj", -1],
+        [ "reloaded_9mmP", -1],
+        [ "reloaded_9mmP2", -1]
+              ]
+      ]
   }
- ]
+]
