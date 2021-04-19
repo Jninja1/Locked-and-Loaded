@@ -66,7 +66,7 @@
       [ "da10_mag", 50 ],
       [ "da13_mag", 55 ],
       [ "da15_mag", 60 ],
-      [ "raptor", 40]
+      [ "raptor_mag", 40]
     ]
   },
   {
