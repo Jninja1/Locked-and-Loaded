@@ -47,7 +47,7 @@
       { "item": "win1866", "prob": 30, "charges-min": 0, "charges-max": 7 },
       { "item": "TRG21", "prob": 50, "charges-min": 0, "charges-max": 10 },
       { "item": "TRG41_338", "prob": 45, "charges-min": 0, "charges-max": 5 },
-      { "item": "TRG41_300", "prob": 55, "charges-min": 0, "charges-max": 7 },
+      { "item": "TRG41_300", "prob": 55, "charges-min": 0, "charges-max": 7 }
     ]
   },
   {
