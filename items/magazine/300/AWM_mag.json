@@ -3,7 +3,7 @@
     "id": "AWM_mag",
     "type": "MAGAZINE",
     "name": "AWM magazine",
-    "description": "A magazine for for an AWM it can hold 5 round of .300 win mag.",
+    "description": "A magazine for an AWM it can hold 5 round of .300 win mag.",
     "weight": "168 g",
     "volume": "250 ml",
     "price": 8000,
