@@ -19,6 +19,13 @@
      "longest_side": "278 mm",
     "durability": 8,
     "clip_size": 6,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "holster": true, "rigid": true, "ammo_restriction": { "357mag": 6 } } ]
+     {
+        "pocket_type": "MAGAZINE",
+        "holster": true,
+        "rigid": true,
+        "ammo_restriction": { "357mag": 6 },
+        "allowed_speedloaders": [ "38_speedloader" ]
+      }
+    ]
   }
-]
+ ]
