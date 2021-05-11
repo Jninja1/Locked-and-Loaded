@@ -25,10 +25,10 @@
      "holster":true,
      "rigid":true,
      "ammo_restriction":{
-               "357mag":6
+               "44":6
             },
             "allowed_speedloaders":[
-               "38_speedloader6"
+               "44_speedloader6"
             ]
          }
       ]
