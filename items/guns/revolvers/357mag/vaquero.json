@@ -19,14 +19,18 @@
     "barrel_volume": "16 ml",
     "longest_side": "278 mm",
     "clip_size": 6,
-  "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "holster": true,
-        "rigid": true,
-        "ammo_restriction": { "44": 6 },
-        "allowed_speedloaders": [ "44_speedloader6" ]
-      }
-    ]
-  }
- ]
+ "pocket_data":[
+         {
+     "pocket_type":"MAGAZINE",
+     "holster":true,
+     "rigid":true,
+     "ammo_restriction":{
+               "357mag":6
+            },
+            "allowed_speedloaders":[
+               "38_speedloader6"
+            ]
+         }
+      ]
+   }
+]
