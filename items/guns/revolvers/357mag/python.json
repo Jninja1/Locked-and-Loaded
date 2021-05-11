@@ -13,7 +13,7 @@
     "bashing": 8,
     "material": [ "steel", "wood" ],
     "color": "dark_gray",
-    "ammo": [ "357mag" ],
+    "ammo": [ "357mag", "38" ],
     "dispersion": 150,
     "durability": 8,
     "barrel_volume": "16 ml",
@@ -24,9 +24,7 @@
      "pocket_type":"MAGAZINE",
      "holster":true,
      "rigid":true,
-     "ammo_restriction":{
-               "357mag":6
-            },
+     "ammo_restriction":{"357mag":6, "38":6},
             "allowed_speedloaders":[
                "38_speedloader6"
             ]
