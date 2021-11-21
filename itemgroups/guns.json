@@ -11,7 +11,8 @@
       { "item": "VSSM", "prob": 30, "charges-min": 0, "charges-max": 10 },
       { "item": "xm8", "prob": 40, "charges-min": 0, "charges-max": 24 },
       { "item": "vsval", "prob": 60, "charges-min": 0, "charges-max": 20 },
-      { "item": "rk62", "prob": 45, "charges-min": 0, "charges-max": 20 }   
+      { "item": "rk62", "prob": 45, "charges-min": 0, "charges-max": 20 },
+      { "item": "L85A2", "prob": 60, "charges-min": 0, "charges-max": 150}
     ]
   },
   {
