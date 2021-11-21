@@ -21,7 +21,7 @@
     "durability": 8,
     "barrel_volume": "900 ml",
     "longest_side": "920 mm",
-    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 10 ] ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 12 ] ],
     "built_in_mods": [ "rifle_scope" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
