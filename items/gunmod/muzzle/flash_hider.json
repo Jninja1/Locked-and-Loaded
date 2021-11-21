@@ -1,0 +1,29 @@
+[
+  {
+    "id": "flash_hider",
+    "type": "GUNMOD",
+    "name": { "str": "Flash Hider" },
+    "description": "A flash hider simply does as is implied. It hides the flash generated from each shot. Due to the gas being disrupted it causes very minimal recoil contol.",
+    "weight": "54 g",
+    "volume": "100 ml",
+    "price": 5000,
+    "price_postapoc": 50000,
+    "install_time": "3 m",
+    "material": [ "steel" ],
+    "symbol": ":",
+    "color": "light_gray",
+    "location": "muzzle",
+    "mod_targets": [ "rifle"],
+    "dispersion_modifier": 5,
+    "handling_modifier": 2,
+    "min_skills": [ [ "weapon", 0 ] ]
+  },
+  {
+    "id": "flash_hider_mod",
+    "copy-from": "flash_hider",
+    "type": "GUNMOD",
+    "name": { "str": "modified flash hider" },
+    "description": "A flash hider simply does as is implied. It hides the flash generated from each shot. Due to the gas being disrupted it causes very minimal recoil contol. This one was modified and customized to mount on pretty much any firearm other than launchers, if you so want.",
+    "mod_targets": [ "pistol", "smg", "rifle"]
+  }
+ }
