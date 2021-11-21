@@ -1,0 +1,7 @@
+[
+  {
+    "type": "item_group",
+    "id": "gunmod_common",
+    "items": [ "flash_hider", 60]
+    }
+   ]
