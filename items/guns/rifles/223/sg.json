@@ -62,6 +62,6 @@
     "copy-from": "551p",
     "name": "SG 551 Swat",
     "description": "The SG 551 Swat is based off of the SG 540. The 551-1P and the 551 Swat are both similar each other expect the Swat comes with a: Bipod, ACOG scope, and a laser pointer for tactical engagments.",
-     "built_in_mods": [ "bipod", "acog_scope", "laser_sight"],
-
-    ]
+     "built_in_mods": [ "bipod", "acog_scope", "laser_sight"]
+ } 
+]
