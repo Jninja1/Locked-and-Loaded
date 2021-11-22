@@ -22,7 +22,7 @@
     "id": "flash_hider_mod",
     "copy-from": "flash_hider",
     "type": "GUNMOD",
-    "name": { "str": "modified flash hider" },
+    "name": { "str": "Modified Flash Hider" },
     "description": "A flash hider simply does as is implied. It hides the flash generated from each shot. Due to the gas being disrupted it causes very minimal recoil contol. This one was modified and customized to mount on pretty much any firearm other than launchers, if you so want.",
     "mod_targets": [ "pistol", "smg", "rifle"]
   }
