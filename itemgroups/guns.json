@@ -13,7 +13,10 @@
       { "item": "vsval", "prob": 60, "charges-min": 0, "charges-max": 20 },
       { "item": "rk62", "prob": 45, "charges-min": 0, "charges-max": 20 },
       { "item": "L85A2", "prob": 60, "charges-min": 0, "charges-max": 150},
-      { "item": "hk", "prob": 50, "charges-min": 0, "charges-max": 150}
+      { "item": "hk", "prob": 50, "charges-min": 0, "charges-max": 150},
+      { "item": "ak19", "prob": 60, "charges-min": 0, "charges-max": 150},
+      { "item": "551p", "prob": 40, "charges-min": 0, "charges-max": 150},
+      { "item": "551s", "prob": 30, "charges-min": 0, "charges-max": 150}
     ]
   },
   {
