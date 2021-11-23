@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ak15",
+    "copy-from": "rifle_base",
+    "reload_noise_volume": 10,
+    "looks_like": "ak47",
+    "type": "GUN",
+    "name": "AK-15 ",
+    "description": "The AK-15 is based off of the AK-12 with the only notable diffrence is that the 19 is chambered in 7.62mm whereas the 12 is chambered in 5.45mm. Both of which were Kalashnikov Group under the 'Ratnik' program.",
+    "weight": "3500 g",
+    "volume": "2000 ml",
+    "price": 20000,
+    "to_hit": -2,
+    "bashing": 8,
+    "material": [ "steel", "wood" ],
+    "symbol": "-",
+    "ammo": [ "223" ],
+    "skill": "rifle",
+    "range": 12,
+    "dispersion": 25,
+    "durability": 8,
+    "barrel_volume": "1058 ml",
+    "longest_side": "985 mm",
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 10 ] ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ]
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ 
+		      "akmag30", 
+          "akmag10", 
+          "akmag20", 
+          "akmag40", 
+          "akdrum75"
+          ]
+      }
+     ]
+  }
+ ]
+		  
