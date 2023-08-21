@@ -1,0 +1,60 @@
+[
+  {
+    "id": "hk",
+    "copy-from": "rifle_base",
+    "reload_noise_volume": 10,
+    "looks_like": "steyr_aug",
+    "type": "GUN",
+    "name": "HK33SG/1 ",
+    "description": "The HK33 line builds upon the success from the G3 line, making it more modern and in more calibers. This specific rifle is the HK33SG/1. It is similar to the standard HK33A2 version, but it built to be more accurate and is equipped with a telescopic sight.",
+    "weight": "3650 g",
+    "volume": "2000 ml",
+    "price": 1467,
+    "to_hit": -2,
+    "melee_damage": { "bash": 12 },
+    "material": [ "steel", "plastic" ],
+    "symbol": "-",
+    "ammo": [ "223" ],
+    "skill": "rifle",
+    "range": 15,
+    "dispersion": 27,
+    "durability": 8,
+    "barrel_volume": "900 ml",
+    "longest_side": "920 mm",
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 12 ] ],
+    "built_in_mods": [ "rifle_scope" ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ]
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ 
+		  "stanag30",
+          "stanag5",
+          "stanag10",
+          "stanag20",
+          "stanag40",
+          "stanag50",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150",
+          "survivor223mag"
+		  ]
+      }
+    ]
+  }
+ ]
